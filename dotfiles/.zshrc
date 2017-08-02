@@ -15,7 +15,7 @@ if [ -f $GOPATH/src/github.com/zquestz/s/autocomplete/s-completion.bash ]; then
 fi
 alias gpr="git pull -r --autostash"
 
-export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+export PATH="$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 export PATH=$PATH:/Users/kjayanta/Downloads/darwin-amd64
 export PATH=$PATH:~/bin
 export PATH=$PATH:/Users/kjayanta/Projects/GoProjects/bin
@@ -23,6 +23,7 @@ export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/latest/bin
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 export PATH=$PATH:~/.ssh
 export PATH=$PATH:/usr/local/go/bin
+export PATH="$PATH:./Library/Python/2.7/bin"
 
 export SSH_KEY_PATH="~/.ssh/id_rsa"
 export SSH_KEY_PATH_PUB="~/.ssh/id_rsa.pub"
