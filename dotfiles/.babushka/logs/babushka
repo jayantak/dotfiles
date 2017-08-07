@@ -1,0 +1,1426 @@
+[90m$ git rev-parse --git-dir[m
+[1mfatal: Not a git repository (or any of the parent directories): .git[m
+babushka@ | /usr/local/bin/ruby@2.4.1-p111
+[90m$ git rev-parse --git-dir[m
+[1mfatal: Not a git repository (or any of the parent directories): .git[m
+[90mbabushka {[m
+  (defining babushka against Babushka::BaseTemplate from /Users/kjayanta/.babushka/bootstrap/deps/babushka.rb)
+  [90m$ sw_vers[m
+  ProductName:	Mac OS X
+  ProductVersion:	10.11.6
+  BuildVersion:	15G31
+  setup not defined.
+  [90m$ git rev-parse --git-dir[m
+  [1mfatal: Not a git repository (or any of the parent directories): .git[m
+  [90m$ git rev-parse --git-dir[m
+  [1mfatal: Not a git repository (or any of the parent directories): .git[m
+  [90m$ git rev-parse --git-dir[m
+  [1mfatal: Not a git repository (or any of the parent directories): .git[m
+  [90mup to date.babushka {[m
+    [90m$ git rev-parse --git-dir[m
+    [1mfatal: Not a git repository (or any of the parent directories): .git[m
+    [90m$ git rev-parse --git-dir[m
+    [1mfatal: Not a git repository (or any of the parent directories): .git[m
+    [90m$ git rev-parse --git-dir[m
+    [1mfatal: Not a git repository (or any of the parent directories): .git[m
+    (defining up to date.babushka against babushka from /Users/kjayanta/.babushka/bootstrap/deps/babushka.rb)
+    setup not defined.
+    [90m$ git rev-parse --git-dir[m
+    [1mfatal: Not a git repository (or any of the parent directories): .git[m
+    [90m$ git rev-parse --git-dir[m
+    [1mfatal: Not a git repository (or any of the parent directories): .git[m
+    [90m$ git rev-parse --git-dir[m
+    [1mfatal: Not a git repository (or any of the parent directories): .git[m
+    [90mrepo clean.babushka {[m
+      [90m$ git rev-parse --git-dir[m
+      [1mfatal: Not a git repository (or any of the parent directories): .git[m
+      [90m$ git rev-parse --git-dir[m
+      [1mfatal: Not a git repository (or any of the parent directories): .git[m
+      [90m$ git rev-parse --git-dir[m
+      [1mfatal: Not a git repository (or any of the parent directories): .git[m
+      (defining repo clean.babushka against babushka from /Users/kjayanta/.babushka/bootstrap/deps/babushka.rb)
+      setup not defined.
+      [90m$ git rev-parse --git-dir[m
+      [1mfatal: Not a git repository (or any of the parent directories): .git[m
+      [90m$ git rev-parse --git-dir[m
+      [1mfatal: Not a git repository (or any of the parent directories): .git[m
+      [90m$ git rev-parse --git-dir[m
+      [1mfatal: Not a git repository (or any of the parent directories): .git[m
+      [90minstalled.babushka {[m
+        [90m$ git rev-parse --git-dir[m
+        [1mfatal: Not a git repository (or any of the parent directories): .git[m
+        [90m$ git rev-parse --git-dir[m
+        [1mfatal: Not a git repository (or any of the parent directories): .git[m
+        [90m$ git rev-parse --git-dir[m
+        [1mfatal: Not a git repository (or any of the parent directories): .git[m
+        (defining installed.babushka against babushka from /Users/kjayanta/.babushka/bootstrap/deps/babushka.rb)
+        Where would you like babushka installed [/usr/local/babushka]        [90m$ git rev-parse --git-dir[m
+        [1mfatal: Not a git repository (or any of the parent directories): .git[m
+        [90m$ git rev-parse --git-dir[m
+        [1mfatal: Not a git repository (or any of the parent directories): .git[m
+        [90m$ git rev-parse --git-dir[m
+        [1mfatal: Not a git repository (or any of the parent directories): .git[m
+        [90mruby {[m
+          [90m$ git rev-parse --git-dir[m
+          [1mfatal: Not a git repository (or any of the parent directories): .git[m
+          [90m$ git rev-parse --git-dir[m
+          [1mfatal: Not a git repository (or any of the parent directories): .git[m
+          [90m$ git rev-parse --git-dir[m
+          [1mfatal: Not a git repository (or any of the parent directories): .git[m
+          (defining ruby against bin from /Users/kjayanta/.babushka/bootstrap/deps/ruby.rb)
+          setup not defined.
+          'ruby' & 'irb' run from /usr/local/bin.
+          [90m$ ruby --version 2>&1[m
+          ruby 2.4.1p111 (2017-03-22 revision 58053) [x86_64-darwin15]
+          [90m✓[m ruby is 2.4.1p111, which is >= 1.8.6.
+        [90m}[m [32m✓ ruby[m
+        [90m$ git rev-parse --git-dir[m
+        [1mfatal: Not a git repository (or any of the parent directories): .git[m
+        [90m$ git rev-parse --git-dir[m
+        [1mfatal: Not a git repository (or any of the parent directories): .git[m
+        [90m$ git rev-parse --git-dir[m
+        [1mfatal: Not a git repository (or any of the parent directories): .git[m
+        [90mgit {[m
+          (defining git against Babushka::BaseTemplate from /Users/kjayanta/.babushka/bootstrap/deps/git.rb)
+          setup not defined.
+          'git' runs from /usr/bin.
+          [90m$ git --version 2>&1[m
+          git version 2.10.1 (Apple Git-78)
+          [90m✓[m git is 2.10.1, which is >= 1.6.
+        [90m}[m [32m✓ git[m
+        [90m$ git rev-parse --git-dir[m
+        [1mfatal: Not a git repository (or any of the parent directories): .git[m
+        prepare not defined.
+        [90mmeet {[m
+          before not defined.
+          Cloning https://github.com/benhoskings/babushka.git into /usr/local/babushka...          [90m$ git clone 'https://github.com/benhoskings/babushka.git' 'babushka'[m
+          [1mCloning into 'babushka'...[m
+ done.
+          after not defined.
+        [90m}[m
+        [90m$ git rev-parse --git-dir[m
+        .git
+      [90m}[m [32m✓ installed.babushka[m
+      [90m$ git rev-parse --git-dir[m
+      .git
+      [90m$ git status[m
+      On branch master
+      Your branch is up-to-date with 'origin/master'.
+      nothing to commit, working tree clean
+      [90m$ git diff-index --name-status HEAD[m
+    [90m}[m [32m✓ repo clean.babushka[m
+    [90m$ git rev-parse --git-dir[m
+    [1mfatal: Not a git repository (or any of the parent directories): .git[m
+    [90m$ git rev-parse --git-dir[m
+    [1mfatal: Not a git repository (or any of the parent directories): .git[m
+    [90m$ git rev-parse --git-dir[m
+    [1mfatal: Not a git repository (or any of the parent directories): .git[m
+    [90mresolvable ref.babushka {[m
+      [90m$ git rev-parse --git-dir[m
+      [1mfatal: Not a git repository (or any of the parent directories): .git[m
+      [90m$ git rev-parse --git-dir[m
+      [1mfatal: Not a git repository (or any of the parent directories): .git[m
+      [90m$ git rev-parse --git-dir[m
+      [1mfatal: Not a git repository (or any of the parent directories): .git[m
+      (defining resolvable ref.babushka against babushka from /Users/kjayanta/.babushka/bootstrap/deps/babushka.rb)
+      setup not defined.
+      [90m$ git rev-parse --git-dir[m
+      .git
+      [90m$ git rev-parse --git-dir[m
+      .git
+      [90m$ git show-ref[m
+      298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/heads/master
+      298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/remotes/origin/HEAD
+      298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/remotes/origin/master
+      d000b395d376f959b5afcf6b0e3857832ae339d5 refs/remotes/origin/stable
+      8b84d077041bba6548c4c3697dac8228e9c7588a refs/tags/v0.1.0
+      bd2b53c71c95ab2d8af104d7aecf893874a48436 refs/tags/v0.1.1
+      40054c2e7b9c382ff01ea26b70725a3271ac3eda refs/tags/v0.10.0
+      ec5119d0892134e0f7a060026dc76bdb33d50757 refs/tags/v0.10.1
+      18969b4d7b22e20a2618e37eca0372ba2081a47d refs/tags/v0.10.10
+      5b84292d6893b4f4ba31494a0c4117135e9b084f refs/tags/v0.10.11
+      76c7433e9077daba9cfa8f98a388b36fd937348f refs/tags/v0.10.2
+      d5b6a0e191f2000fa946139ff1333985beb413d9 refs/tags/v0.10.3
+      77999ae6e18eda36703bbf3fdbdfb8450aaf3135 refs/tags/v0.10.4
+      28721e43e4540eadc6fcaa61ee498da1be942893 refs/tags/v0.10.5
+      0e6700f1463d5da43b95cd0c5b2670ba7b9fed88 refs/tags/v0.10.6
+      30803beeaf2fd87234088f0375be63520dd40685 refs/tags/v0.10.7
+      f90b8df679bfa1362803a0bf25637440d75917d1 refs/tags/v0.10.8
+      2eadc01ea01fae3a4f92797a4194a273b395807e refs/tags/v0.10.9
+      08d234b743388dcb4a38a502a033ed7b7a7e3614 refs/tags/v0.11.0
+      549a1885573ebfa7dff8859e88d91e451fb4cd31 refs/tags/v0.11.1
+      f326bd741f7d4c865d2a34b4bb4456a058ae62c5 refs/tags/v0.11.2
+      226fcd03d8ae80740281d170cd4833bb9afcbc26 refs/tags/v0.11.3
+      bf81c1e062b07bce7e17587938d676ed4f5f38d5 refs/tags/v0.11.4
+      9ee50ae785f6e6be84d7b8bc6e77a33c24e33e80 refs/tags/v0.11.5
+      92c962cd2e25f059b5ebe7d6168b9b74ffd0ec98 refs/tags/v0.12.0
+      05221d62d41e50cc52857edd1f626c16d601753a refs/tags/v0.12.1
+      1d833db2ef0bb41a612a3489050ff6bc729ac03f refs/tags/v0.12.2
+      2f4f9e7e88b7bb32062bcb4dd715ceb73928416c refs/tags/v0.12.3
+      24b9e9abe2642dda871b2c618056bc78bff01943 refs/tags/v0.12.4
+      630cfa10b1f4d505b9d7b6ce0470813552f20188 refs/tags/v0.12.5
+      c2154b1304c34ed4c9a34170263a406a92154ddd refs/tags/v0.12.6
+      3f312a5695f6bff223280fd53733122ba4b48a9a refs/tags/v0.12.7
+      ef2c2261c28b2e55dee4acaaa64249451e8f3063 refs/tags/v0.12.8
+      a62244dc127b84b78a795e914d8f20c00a3ebdf6 refs/tags/v0.12.9
+      42e2c0ec334a1fa782a1060d276a9f9edb740056 refs/tags/v0.13.0
+      1faca795929e108d338f3d5fe09a2c0e7c536070 refs/tags/v0.13.1
+      39b65d5e4b10f6a3a502e1e21100feaa238a3da4 refs/tags/v0.13.2
+      a2f554c2d9e1cde2d9283f5dfe865a7c779f496c refs/tags/v0.13.3
+      f8e20c23af95f863ded4ebdf4c77476180227754 refs/tags/v0.13.4
+      5eb2137488a68afefd5b1e3284e801fc6bc503f1 refs/tags/v0.13.5
+      b122764c0b930a5a712658cb40f3ad225f2af7b8 refs/tags/v0.13.6
+      73fe44a0e59b28090cc65f7abf96f684af784cd2 refs/tags/v0.13.7
+      dd3e0af3aad7d74b6d8dcf7bac9cabda0600053c refs/tags/v0.13.8
+      da320501e74dd0bb8defea2164cfa3e1eff9ed8c refs/tags/v0.14.0
+      8137f6ce16d5ca019cf3b36d74efd21f27a47b21 refs/tags/v0.15.0
+      0bd1ff86b6e0f8b522a43bbf23fc80e3052a60f7 refs/tags/v0.15.1
+      924794a846c4c6163a8dfffe015ad70bb48572cb refs/tags/v0.15.2
+      68fa0e45f3216a76e9133ede63cebccc11b82da3 refs/tags/v0.15.3
+      08849cbaeaf506a443696211cbbcea2ea958b5fc refs/tags/v0.15.4
+      70c1fea668b24f849fd73b1e84bcf921785bcf55 refs/tags/v0.15.5
+      152cc63dbe8d82f53d6fdb98c8e5ee4678b15ba6 refs/tags/v0.15.6
+      f9427530b6402555166f494984c47f422a1fd90b refs/tags/v0.15.7
+      a7ddf038d1689ee3516b5dc406b43270b892e682 refs/tags/v0.15.8
+      b71de1137c2da3d6f95ac8eb5174cff9d7de3c8a refs/tags/v0.16.0
+      45998205600762f0fc445a35e5afdf5fd0410d3b refs/tags/v0.16.1
+      4ff73e0eda5ff439fd786e4a3bea8568abc95fe2 refs/tags/v0.16.10
+      c39d702f08093b9a4694c4a7e74ce072a2247d94 refs/tags/v0.16.2
+      4a626cb73fed89e15edf5f5cd76b68846107110b refs/tags/v0.16.3
+      5752f597f2a29041d0a13dc5d85074ef604a5d97 refs/tags/v0.16.4
+      e7216d297b0cbd0ac2ebb7edff2824ba26d9a00c refs/tags/v0.16.5
+      f57a266970d04fc34ef58cbbd6bbadd2d4caf583 refs/tags/v0.16.6
+      366ded98b7775d0bb15444dad6f64069b31a6757 refs/tags/v0.16.7
+      e905846288b4e2ce6f1732b5af69e7536be30b0e refs/tags/v0.16.8
+      8f03e489d73221a268c50824ac02c286c78130a4 refs/tags/v0.16.9
+      ea4525db4affee7464a95b33eb37b0390e428b6d refs/tags/v0.17.0
+      20bd9c7e078ef2e0305e75ac2861a073b9d5e846 refs/tags/v0.17.1
+      e1cf5161400391ba9cf90f144b7276d724bef4df refs/tags/v0.17.2
+      4c5e668898796eb04b3e62e5aa1537feb7b1b5ba refs/tags/v0.17.3
+      663e70f372c419e3c5489ea6d54b85dd436107e7 refs/tags/v0.17.4
+      341b15d16bc41b5ecc04ef62e4c4529322745ad5 refs/tags/v0.17.5
+      8311af76da375826633485b4be03cac09c696093 refs/tags/v0.17.6
+      181eb1a402c7215882df3e3323e7bd6df2a442a3 refs/tags/v0.17.7
+      03243d8e0fb4c6adb059b2cab29a17792acd1335 refs/tags/v0.17.8
+      692047450a932bcdd5aba8454ab1c8b89359e5dd refs/tags/v0.18.0
+      0b6ee887f306e39cf02aecb9cbe1d8502660d855 refs/tags/v0.18.1
+      b7eec7b56540fb80ee4b6a48aac8c02daad098cd refs/tags/v0.18.2
+      5e897c815f517e18ff887da58382e12289613369 refs/tags/v0.19.0
+      7c17ec3e26a44ed41fda528eb933e30432520e4b refs/tags/v0.19.1
+      9db34d8f519cd11212be07c83e3c2097c28865ab refs/tags/v0.2.0
+      2be7635e0683af2c4fda6347babdf41cc4566d89 refs/tags/v0.2.1
+      3fa5b895e1b818d6cb1ad8c863852f90d94882dd refs/tags/v0.3.0
+      027b39aa8e9472f757a971efe94e45203dc232d5 refs/tags/v0.3.1
+      a113feadff4e83cf46d0f2cf706864c21e62a4d9 refs/tags/v0.3.2
+      96b3a42495f5332a5f1e414ef258edbed9b48681 refs/tags/v0.4.0
+      04d966c115e11479daaea6e5a1bad1f1a9625782 refs/tags/v0.5.0
+      7d380cda11fbc890b5c24ac4608b8e49dc161444 refs/tags/v0.6.0
+      bf4ac9a24e9fb96ca197629ca52f0123d9a6b536 refs/tags/v0.6.1
+      80fbe635edc55e65ad72d879bfde81d98cabab31 refs/tags/v0.6.2
+      31af4ccd9f8cb4d206aa6c2e4d401d9398d6a8ba refs/tags/v0.7.0
+      592dd9ccd55af2892ac80d1fbbd7288bdc48cf1a refs/tags/v0.8.0
+      3d8d8cc90621b29f7653ed970e1b6fcfa4edf4d2 refs/tags/v0.8.1
+      0908bb6f9c63f139a5aab01d4cedaf03ade75dec refs/tags/v0.8.10
+      f85d759123671d3c5abc7e06c64e1e345efd2a0a refs/tags/v0.8.11
+      cceb01703cc1e5b9ffdaba3d76cc369b7aca3517 refs/tags/v0.8.12
+      c5cdb317f74e1f28642b148eef828f46ae288b60 refs/tags/v0.8.13
+      abde7885b0609766ef5247c3610bf3e320798393 refs/tags/v0.8.14
+      e02afa3b4e9ea0053af9d051f65ec0e6c870c4ee refs/tags/v0.8.15
+      8d2a777ab4040965efdce8d049198b05f253bae2 refs/tags/v0.8.2
+      1702bf96016b30535ad3b54e17ca9fa8aa7e35e6 refs/tags/v0.8.3
+      247c72776557c3c02f2b80c0d9d03e178a1b4cbc refs/tags/v0.8.4
+      48783f27984410a8754f279009c6f08e27689338 refs/tags/v0.8.5
+      195e6f0b6b030f385ab567c7e0e6e0eff8f38b78 refs/tags/v0.8.6
+      ca0f4c434e46b3e4bec408a7152d2c4c676b4084 refs/tags/v0.8.7
+      bcf6d4c8701b3185282db2453c753acc0a6eb7be refs/tags/v0.8.8
+      ef6dbd3c761663f9cedc16a50d6aeb21f0d1ac77 refs/tags/v0.8.9
+      3be9b8f3bbf5c33c1379f8ddb2d719dd819b1445 refs/tags/v0.9.0
+      188fc73005f92d3c585527215d30e6e90ffa7c41 refs/tags/v0.9.1
+      fa3193c5ec48982682ed7e3a264adc5c7e7dfc73 refs/tags/v0.9.2
+      6a009f17a9808598aab62b7aeb06c7fe37926683 refs/tags/v0.9.3
+      dbd3eeee8a77d7305bc3eda9fe61ea25377951a5 refs/tags/v0.9.4
+      7540dbfc3e4e73c9f16a99bd662fd0872c55f774 refs/tags/v0.9.5
+      abb7e454cfb0a9aaf0458d4014c2a945736b99d0 refs/tags/v0.9.5.1
+      9041103b66f01adaa00bdddff8e7fa8989911db6 refs/tags/v0.9.6
+      3fa8069bf6965c9149c87670459a65b2fe55eb52 refs/tags/v0.9.7
+      f4c30c4ac6f1b152ddb8e3876ac058662e7455dd refs/tags/v0.9.8
+      [90m$ git rev-parse --git-dir[m
+      .git
+      [90m$ git rev-parse --git-dir[m
+      .git
+      [90m$ git show-ref[m
+      298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/heads/master
+      298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/remotes/origin/HEAD
+      298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/remotes/origin/master
+      d000b395d376f959b5afcf6b0e3857832ae339d5 refs/remotes/origin/stable
+      8b84d077041bba6548c4c3697dac8228e9c7588a refs/tags/v0.1.0
+      bd2b53c71c95ab2d8af104d7aecf893874a48436 refs/tags/v0.1.1
+      40054c2e7b9c382ff01ea26b70725a3271ac3eda refs/tags/v0.10.0
+      ec5119d0892134e0f7a060026dc76bdb33d50757 refs/tags/v0.10.1
+      18969b4d7b22e20a2618e37eca0372ba2081a47d refs/tags/v0.10.10
+      5b84292d6893b4f4ba31494a0c4117135e9b084f refs/tags/v0.10.11
+      76c7433e9077daba9cfa8f98a388b36fd937348f refs/tags/v0.10.2
+      d5b6a0e191f2000fa946139ff1333985beb413d9 refs/tags/v0.10.3
+      77999ae6e18eda36703bbf3fdbdfb8450aaf3135 refs/tags/v0.10.4
+      28721e43e4540eadc6fcaa61ee498da1be942893 refs/tags/v0.10.5
+      0e6700f1463d5da43b95cd0c5b2670ba7b9fed88 refs/tags/v0.10.6
+      30803beeaf2fd87234088f0375be63520dd40685 refs/tags/v0.10.7
+      f90b8df679bfa1362803a0bf25637440d75917d1 refs/tags/v0.10.8
+      2eadc01ea01fae3a4f92797a4194a273b395807e refs/tags/v0.10.9
+      08d234b743388dcb4a38a502a033ed7b7a7e3614 refs/tags/v0.11.0
+      549a1885573ebfa7dff8859e88d91e451fb4cd31 refs/tags/v0.11.1
+      f326bd741f7d4c865d2a34b4bb4456a058ae62c5 refs/tags/v0.11.2
+      226fcd03d8ae80740281d170cd4833bb9afcbc26 refs/tags/v0.11.3
+      bf81c1e062b07bce7e17587938d676ed4f5f38d5 refs/tags/v0.11.4
+      9ee50ae785f6e6be84d7b8bc6e77a33c24e33e80 refs/tags/v0.11.5
+      92c962cd2e25f059b5ebe7d6168b9b74ffd0ec98 refs/tags/v0.12.0
+      05221d62d41e50cc52857edd1f626c16d601753a refs/tags/v0.12.1
+      1d833db2ef0bb41a612a3489050ff6bc729ac03f refs/tags/v0.12.2
+      2f4f9e7e88b7bb32062bcb4dd715ceb73928416c refs/tags/v0.12.3
+      24b9e9abe2642dda871b2c618056bc78bff01943 refs/tags/v0.12.4
+      630cfa10b1f4d505b9d7b6ce0470813552f20188 refs/tags/v0.12.5
+      c2154b1304c34ed4c9a34170263a406a92154ddd refs/tags/v0.12.6
+      3f312a5695f6bff223280fd53733122ba4b48a9a refs/tags/v0.12.7
+      ef2c2261c28b2e55dee4acaaa64249451e8f3063 refs/tags/v0.12.8
+      a62244dc127b84b78a795e914d8f20c00a3ebdf6 refs/tags/v0.12.9
+      42e2c0ec334a1fa782a1060d276a9f9edb740056 refs/tags/v0.13.0
+      1faca795929e108d338f3d5fe09a2c0e7c536070 refs/tags/v0.13.1
+      39b65d5e4b10f6a3a502e1e21100feaa238a3da4 refs/tags/v0.13.2
+      a2f554c2d9e1cde2d9283f5dfe865a7c779f496c refs/tags/v0.13.3
+      f8e20c23af95f863ded4ebdf4c77476180227754 refs/tags/v0.13.4
+      5eb2137488a68afefd5b1e3284e801fc6bc503f1 refs/tags/v0.13.5
+      b122764c0b930a5a712658cb40f3ad225f2af7b8 refs/tags/v0.13.6
+      73fe44a0e59b28090cc65f7abf96f684af784cd2 refs/tags/v0.13.7
+      dd3e0af3aad7d74b6d8dcf7bac9cabda0600053c refs/tags/v0.13.8
+      da320501e74dd0bb8defea2164cfa3e1eff9ed8c refs/tags/v0.14.0
+      8137f6ce16d5ca019cf3b36d74efd21f27a47b21 refs/tags/v0.15.0
+      0bd1ff86b6e0f8b522a43bbf23fc80e3052a60f7 refs/tags/v0.15.1
+      924794a846c4c6163a8dfffe015ad70bb48572cb refs/tags/v0.15.2
+      68fa0e45f3216a76e9133ede63cebccc11b82da3 refs/tags/v0.15.3
+      08849cbaeaf506a443696211cbbcea2ea958b5fc refs/tags/v0.15.4
+      70c1fea668b24f849fd73b1e84bcf921785bcf55 refs/tags/v0.15.5
+      152cc63dbe8d82f53d6fdb98c8e5ee4678b15ba6 refs/tags/v0.15.6
+      f9427530b6402555166f494984c47f422a1fd90b refs/tags/v0.15.7
+      a7ddf038d1689ee3516b5dc406b43270b892e682 refs/tags/v0.15.8
+      b71de1137c2da3d6f95ac8eb5174cff9d7de3c8a refs/tags/v0.16.0
+      45998205600762f0fc445a35e5afdf5fd0410d3b refs/tags/v0.16.1
+      4ff73e0eda5ff439fd786e4a3bea8568abc95fe2 refs/tags/v0.16.10
+      c39d702f08093b9a4694c4a7e74ce072a2247d94 refs/tags/v0.16.2
+      4a626cb73fed89e15edf5f5cd76b68846107110b refs/tags/v0.16.3
+      5752f597f2a29041d0a13dc5d85074ef604a5d97 refs/tags/v0.16.4
+      e7216d297b0cbd0ac2ebb7edff2824ba26d9a00c refs/tags/v0.16.5
+      f57a266970d04fc34ef58cbbd6bbadd2d4caf583 refs/tags/v0.16.6
+      366ded98b7775d0bb15444dad6f64069b31a6757 refs/tags/v0.16.7
+      e905846288b4e2ce6f1732b5af69e7536be30b0e refs/tags/v0.16.8
+      8f03e489d73221a268c50824ac02c286c78130a4 refs/tags/v0.16.9
+      ea4525db4affee7464a95b33eb37b0390e428b6d refs/tags/v0.17.0
+      20bd9c7e078ef2e0305e75ac2861a073b9d5e846 refs/tags/v0.17.1
+      e1cf5161400391ba9cf90f144b7276d724bef4df refs/tags/v0.17.2
+      4c5e668898796eb04b3e62e5aa1537feb7b1b5ba refs/tags/v0.17.3
+      663e70f372c419e3c5489ea6d54b85dd436107e7 refs/tags/v0.17.4
+      341b15d16bc41b5ecc04ef62e4c4529322745ad5 refs/tags/v0.17.5
+      8311af76da375826633485b4be03cac09c696093 refs/tags/v0.17.6
+      181eb1a402c7215882df3e3323e7bd6df2a442a3 refs/tags/v0.17.7
+      03243d8e0fb4c6adb059b2cab29a17792acd1335 refs/tags/v0.17.8
+      692047450a932bcdd5aba8454ab1c8b89359e5dd refs/tags/v0.18.0
+      0b6ee887f306e39cf02aecb9cbe1d8502660d855 refs/tags/v0.18.1
+      b7eec7b56540fb80ee4b6a48aac8c02daad098cd refs/tags/v0.18.2
+      5e897c815f517e18ff887da58382e12289613369 refs/tags/v0.19.0
+      7c17ec3e26a44ed41fda528eb933e30432520e4b refs/tags/v0.19.1
+      9db34d8f519cd11212be07c83e3c2097c28865ab refs/tags/v0.2.0
+      2be7635e0683af2c4fda6347babdf41cc4566d89 refs/tags/v0.2.1
+      3fa5b895e1b818d6cb1ad8c863852f90d94882dd refs/tags/v0.3.0
+      027b39aa8e9472f757a971efe94e45203dc232d5 refs/tags/v0.3.1
+      a113feadff4e83cf46d0f2cf706864c21e62a4d9 refs/tags/v0.3.2
+      96b3a42495f5332a5f1e414ef258edbed9b48681 refs/tags/v0.4.0
+      04d966c115e11479daaea6e5a1bad1f1a9625782 refs/tags/v0.5.0
+      7d380cda11fbc890b5c24ac4608b8e49dc161444 refs/tags/v0.6.0
+      bf4ac9a24e9fb96ca197629ca52f0123d9a6b536 refs/tags/v0.6.1
+      80fbe635edc55e65ad72d879bfde81d98cabab31 refs/tags/v0.6.2
+      31af4ccd9f8cb4d206aa6c2e4d401d9398d6a8ba refs/tags/v0.7.0
+      592dd9ccd55af2892ac80d1fbbd7288bdc48cf1a refs/tags/v0.8.0
+      3d8d8cc90621b29f7653ed970e1b6fcfa4edf4d2 refs/tags/v0.8.1
+      0908bb6f9c63f139a5aab01d4cedaf03ade75dec refs/tags/v0.8.10
+      f85d759123671d3c5abc7e06c64e1e345efd2a0a refs/tags/v0.8.11
+      cceb01703cc1e5b9ffdaba3d76cc369b7aca3517 refs/tags/v0.8.12
+      c5cdb317f74e1f28642b148eef828f46ae288b60 refs/tags/v0.8.13
+      abde7885b0609766ef5247c3610bf3e320798393 refs/tags/v0.8.14
+      e02afa3b4e9ea0053af9d051f65ec0e6c870c4ee refs/tags/v0.8.15
+      8d2a777ab4040965efdce8d049198b05f253bae2 refs/tags/v0.8.2
+      1702bf96016b30535ad3b54e17ca9fa8aa7e35e6 refs/tags/v0.8.3
+      247c72776557c3c02f2b80c0d9d03e178a1b4cbc refs/tags/v0.8.4
+      48783f27984410a8754f279009c6f08e27689338 refs/tags/v0.8.5
+      195e6f0b6b030f385ab567c7e0e6e0eff8f38b78 refs/tags/v0.8.6
+      ca0f4c434e46b3e4bec408a7152d2c4c676b4084 refs/tags/v0.8.7
+      bcf6d4c8701b3185282db2453c753acc0a6eb7be refs/tags/v0.8.8
+      ef6dbd3c761663f9cedc16a50d6aeb21f0d1ac77 refs/tags/v0.8.9
+      3be9b8f3bbf5c33c1379f8ddb2d719dd819b1445 refs/tags/v0.9.0
+      188fc73005f92d3c585527215d30e6e90ffa7c41 refs/tags/v0.9.1
+      fa3193c5ec48982682ed7e3a264adc5c7e7dfc73 refs/tags/v0.9.2
+      6a009f17a9808598aab62b7aeb06c7fe37926683 refs/tags/v0.9.3
+      dbd3eeee8a77d7305bc3eda9fe61ea25377951a5 refs/tags/v0.9.4
+      7540dbfc3e4e73c9f16a99bd662fd0872c55f774 refs/tags/v0.9.5
+      abb7e454cfb0a9aaf0458d4014c2a945736b99d0 refs/tags/v0.9.5.1
+      9041103b66f01adaa00bdddff8e7fa8989911db6 refs/tags/v0.9.6
+      3fa8069bf6965c9149c87670459a65b2fe55eb52 refs/tags/v0.9.7
+      f4c30c4ac6f1b152ddb8e3876ac058662e7455dd refs/tags/v0.9.8
+      Need to fetch before resolving origin/stable.
+      [90m$ git rev-parse --git-dir[m
+      [1mfatal: Not a git repository (or any of the parent directories): .git[m
+      prepare not defined.
+      [90mmeet {[m
+        before not defined.
+        Fetching https://github.com/benhoskings/babushka.git...        [90m$ git rev-parse --git-dir[m
+        .git
+        [90m$ git fetch origin[m
+ done.
+        after not defined.
+      [90m}[m
+      [90m$ git rev-parse --git-dir[m
+      .git
+      [90m$ git rev-parse --git-dir[m
+      .git
+      [90m$ git show-ref[m
+      298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/heads/master
+      298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/remotes/origin/HEAD
+      298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/remotes/origin/master
+      d000b395d376f959b5afcf6b0e3857832ae339d5 refs/remotes/origin/stable
+      8b84d077041bba6548c4c3697dac8228e9c7588a refs/tags/v0.1.0
+      bd2b53c71c95ab2d8af104d7aecf893874a48436 refs/tags/v0.1.1
+      40054c2e7b9c382ff01ea26b70725a3271ac3eda refs/tags/v0.10.0
+      ec5119d0892134e0f7a060026dc76bdb33d50757 refs/tags/v0.10.1
+      18969b4d7b22e20a2618e37eca0372ba2081a47d refs/tags/v0.10.10
+      5b84292d6893b4f4ba31494a0c4117135e9b084f refs/tags/v0.10.11
+      76c7433e9077daba9cfa8f98a388b36fd937348f refs/tags/v0.10.2
+      d5b6a0e191f2000fa946139ff1333985beb413d9 refs/tags/v0.10.3
+      77999ae6e18eda36703bbf3fdbdfb8450aaf3135 refs/tags/v0.10.4
+      28721e43e4540eadc6fcaa61ee498da1be942893 refs/tags/v0.10.5
+      0e6700f1463d5da43b95cd0c5b2670ba7b9fed88 refs/tags/v0.10.6
+      30803beeaf2fd87234088f0375be63520dd40685 refs/tags/v0.10.7
+      f90b8df679bfa1362803a0bf25637440d75917d1 refs/tags/v0.10.8
+      2eadc01ea01fae3a4f92797a4194a273b395807e refs/tags/v0.10.9
+      08d234b743388dcb4a38a502a033ed7b7a7e3614 refs/tags/v0.11.0
+      549a1885573ebfa7dff8859e88d91e451fb4cd31 refs/tags/v0.11.1
+      f326bd741f7d4c865d2a34b4bb4456a058ae62c5 refs/tags/v0.11.2
+      226fcd03d8ae80740281d170cd4833bb9afcbc26 refs/tags/v0.11.3
+      bf81c1e062b07bce7e17587938d676ed4f5f38d5 refs/tags/v0.11.4
+      9ee50ae785f6e6be84d7b8bc6e77a33c24e33e80 refs/tags/v0.11.5
+      92c962cd2e25f059b5ebe7d6168b9b74ffd0ec98 refs/tags/v0.12.0
+      05221d62d41e50cc52857edd1f626c16d601753a refs/tags/v0.12.1
+      1d833db2ef0bb41a612a3489050ff6bc729ac03f refs/tags/v0.12.2
+      2f4f9e7e88b7bb32062bcb4dd715ceb73928416c refs/tags/v0.12.3
+      24b9e9abe2642dda871b2c618056bc78bff01943 refs/tags/v0.12.4
+      630cfa10b1f4d505b9d7b6ce0470813552f20188 refs/tags/v0.12.5
+      c2154b1304c34ed4c9a34170263a406a92154ddd refs/tags/v0.12.6
+      3f312a5695f6bff223280fd53733122ba4b48a9a refs/tags/v0.12.7
+      ef2c2261c28b2e55dee4acaaa64249451e8f3063 refs/tags/v0.12.8
+      a62244dc127b84b78a795e914d8f20c00a3ebdf6 refs/tags/v0.12.9
+      42e2c0ec334a1fa782a1060d276a9f9edb740056 refs/tags/v0.13.0
+      1faca795929e108d338f3d5fe09a2c0e7c536070 refs/tags/v0.13.1
+      39b65d5e4b10f6a3a502e1e21100feaa238a3da4 refs/tags/v0.13.2
+      a2f554c2d9e1cde2d9283f5dfe865a7c779f496c refs/tags/v0.13.3
+      f8e20c23af95f863ded4ebdf4c77476180227754 refs/tags/v0.13.4
+      5eb2137488a68afefd5b1e3284e801fc6bc503f1 refs/tags/v0.13.5
+      b122764c0b930a5a712658cb40f3ad225f2af7b8 refs/tags/v0.13.6
+      73fe44a0e59b28090cc65f7abf96f684af784cd2 refs/tags/v0.13.7
+      dd3e0af3aad7d74b6d8dcf7bac9cabda0600053c refs/tags/v0.13.8
+      da320501e74dd0bb8defea2164cfa3e1eff9ed8c refs/tags/v0.14.0
+      8137f6ce16d5ca019cf3b36d74efd21f27a47b21 refs/tags/v0.15.0
+      0bd1ff86b6e0f8b522a43bbf23fc80e3052a60f7 refs/tags/v0.15.1
+      924794a846c4c6163a8dfffe015ad70bb48572cb refs/tags/v0.15.2
+      68fa0e45f3216a76e9133ede63cebccc11b82da3 refs/tags/v0.15.3
+      08849cbaeaf506a443696211cbbcea2ea958b5fc refs/tags/v0.15.4
+      70c1fea668b24f849fd73b1e84bcf921785bcf55 refs/tags/v0.15.5
+      152cc63dbe8d82f53d6fdb98c8e5ee4678b15ba6 refs/tags/v0.15.6
+      f9427530b6402555166f494984c47f422a1fd90b refs/tags/v0.15.7
+      a7ddf038d1689ee3516b5dc406b43270b892e682 refs/tags/v0.15.8
+      b71de1137c2da3d6f95ac8eb5174cff9d7de3c8a refs/tags/v0.16.0
+      45998205600762f0fc445a35e5afdf5fd0410d3b refs/tags/v0.16.1
+      4ff73e0eda5ff439fd786e4a3bea8568abc95fe2 refs/tags/v0.16.10
+      c39d702f08093b9a4694c4a7e74ce072a2247d94 refs/tags/v0.16.2
+      4a626cb73fed89e15edf5f5cd76b68846107110b refs/tags/v0.16.3
+      5752f597f2a29041d0a13dc5d85074ef604a5d97 refs/tags/v0.16.4
+      e7216d297b0cbd0ac2ebb7edff2824ba26d9a00c refs/tags/v0.16.5
+      f57a266970d04fc34ef58cbbd6bbadd2d4caf583 refs/tags/v0.16.6
+      366ded98b7775d0bb15444dad6f64069b31a6757 refs/tags/v0.16.7
+      e905846288b4e2ce6f1732b5af69e7536be30b0e refs/tags/v0.16.8
+      8f03e489d73221a268c50824ac02c286c78130a4 refs/tags/v0.16.9
+      ea4525db4affee7464a95b33eb37b0390e428b6d refs/tags/v0.17.0
+      20bd9c7e078ef2e0305e75ac2861a073b9d5e846 refs/tags/v0.17.1
+      e1cf5161400391ba9cf90f144b7276d724bef4df refs/tags/v0.17.2
+      4c5e668898796eb04b3e62e5aa1537feb7b1b5ba refs/tags/v0.17.3
+      663e70f372c419e3c5489ea6d54b85dd436107e7 refs/tags/v0.17.4
+      341b15d16bc41b5ecc04ef62e4c4529322745ad5 refs/tags/v0.17.5
+      8311af76da375826633485b4be03cac09c696093 refs/tags/v0.17.6
+      181eb1a402c7215882df3e3323e7bd6df2a442a3 refs/tags/v0.17.7
+      03243d8e0fb4c6adb059b2cab29a17792acd1335 refs/tags/v0.17.8
+      692047450a932bcdd5aba8454ab1c8b89359e5dd refs/tags/v0.18.0
+      0b6ee887f306e39cf02aecb9cbe1d8502660d855 refs/tags/v0.18.1
+      b7eec7b56540fb80ee4b6a48aac8c02daad098cd refs/tags/v0.18.2
+      5e897c815f517e18ff887da58382e12289613369 refs/tags/v0.19.0
+      7c17ec3e26a44ed41fda528eb933e30432520e4b refs/tags/v0.19.1
+      9db34d8f519cd11212be07c83e3c2097c28865ab refs/tags/v0.2.0
+      2be7635e0683af2c4fda6347babdf41cc4566d89 refs/tags/v0.2.1
+      3fa5b895e1b818d6cb1ad8c863852f90d94882dd refs/tags/v0.3.0
+      027b39aa8e9472f757a971efe94e45203dc232d5 refs/tags/v0.3.1
+      a113feadff4e83cf46d0f2cf706864c21e62a4d9 refs/tags/v0.3.2
+      96b3a42495f5332a5f1e414ef258edbed9b48681 refs/tags/v0.4.0
+      04d966c115e11479daaea6e5a1bad1f1a9625782 refs/tags/v0.5.0
+      7d380cda11fbc890b5c24ac4608b8e49dc161444 refs/tags/v0.6.0
+      bf4ac9a24e9fb96ca197629ca52f0123d9a6b536 refs/tags/v0.6.1
+      80fbe635edc55e65ad72d879bfde81d98cabab31 refs/tags/v0.6.2
+      31af4ccd9f8cb4d206aa6c2e4d401d9398d6a8ba refs/tags/v0.7.0
+      592dd9ccd55af2892ac80d1fbbd7288bdc48cf1a refs/tags/v0.8.0
+      3d8d8cc90621b29f7653ed970e1b6fcfa4edf4d2 refs/tags/v0.8.1
+      0908bb6f9c63f139a5aab01d4cedaf03ade75dec refs/tags/v0.8.10
+      f85d759123671d3c5abc7e06c64e1e345efd2a0a refs/tags/v0.8.11
+      cceb01703cc1e5b9ffdaba3d76cc369b7aca3517 refs/tags/v0.8.12
+      c5cdb317f74e1f28642b148eef828f46ae288b60 refs/tags/v0.8.13
+      abde7885b0609766ef5247c3610bf3e320798393 refs/tags/v0.8.14
+      e02afa3b4e9ea0053af9d051f65ec0e6c870c4ee refs/tags/v0.8.15
+      8d2a777ab4040965efdce8d049198b05f253bae2 refs/tags/v0.8.2
+      1702bf96016b30535ad3b54e17ca9fa8aa7e35e6 refs/tags/v0.8.3
+      247c72776557c3c02f2b80c0d9d03e178a1b4cbc refs/tags/v0.8.4
+      48783f27984410a8754f279009c6f08e27689338 refs/tags/v0.8.5
+      195e6f0b6b030f385ab567c7e0e6e0eff8f38b78 refs/tags/v0.8.6
+      ca0f4c434e46b3e4bec408a7152d2c4c676b4084 refs/tags/v0.8.7
+      bcf6d4c8701b3185282db2453c753acc0a6eb7be refs/tags/v0.8.8
+      ef6dbd3c761663f9cedc16a50d6aeb21f0d1ac77 refs/tags/v0.8.9
+      3be9b8f3bbf5c33c1379f8ddb2d719dd819b1445 refs/tags/v0.9.0
+      188fc73005f92d3c585527215d30e6e90ffa7c41 refs/tags/v0.9.1
+      fa3193c5ec48982682ed7e3a264adc5c7e7dfc73 refs/tags/v0.9.2
+      6a009f17a9808598aab62b7aeb06c7fe37926683 refs/tags/v0.9.3
+      dbd3eeee8a77d7305bc3eda9fe61ea25377951a5 refs/tags/v0.9.4
+      7540dbfc3e4e73c9f16a99bd662fd0872c55f774 refs/tags/v0.9.5
+      abb7e454cfb0a9aaf0458d4014c2a945736b99d0 refs/tags/v0.9.5.1
+      9041103b66f01adaa00bdddff8e7fa8989911db6 refs/tags/v0.9.6
+      3fa8069bf6965c9149c87670459a65b2fe55eb52 refs/tags/v0.9.7
+      f4c30c4ac6f1b152ddb8e3876ac058662e7455dd refs/tags/v0.9.8
+      [90m$ git rev-parse --git-dir[m
+      .git
+      [90m$ git rev-parse --short origin/stable^{commit}[m
+      d000b39
+      [90m$ git rev-parse --git-dir[m
+      .git
+      [90m$ git rev-parse --git-dir[m
+      .git
+      [90m$ git show-ref[m
+      298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/heads/master
+      298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/remotes/origin/HEAD
+      298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/remotes/origin/master
+      d000b395d376f959b5afcf6b0e3857832ae339d5 refs/remotes/origin/stable
+      8b84d077041bba6548c4c3697dac8228e9c7588a refs/tags/v0.1.0
+      bd2b53c71c95ab2d8af104d7aecf893874a48436 refs/tags/v0.1.1
+      40054c2e7b9c382ff01ea26b70725a3271ac3eda refs/tags/v0.10.0
+      ec5119d0892134e0f7a060026dc76bdb33d50757 refs/tags/v0.10.1
+      18969b4d7b22e20a2618e37eca0372ba2081a47d refs/tags/v0.10.10
+      5b84292d6893b4f4ba31494a0c4117135e9b084f refs/tags/v0.10.11
+      76c7433e9077daba9cfa8f98a388b36fd937348f refs/tags/v0.10.2
+      d5b6a0e191f2000fa946139ff1333985beb413d9 refs/tags/v0.10.3
+      77999ae6e18eda36703bbf3fdbdfb8450aaf3135 refs/tags/v0.10.4
+      28721e43e4540eadc6fcaa61ee498da1be942893 refs/tags/v0.10.5
+      0e6700f1463d5da43b95cd0c5b2670ba7b9fed88 refs/tags/v0.10.6
+      30803beeaf2fd87234088f0375be63520dd40685 refs/tags/v0.10.7
+      f90b8df679bfa1362803a0bf25637440d75917d1 refs/tags/v0.10.8
+      2eadc01ea01fae3a4f92797a4194a273b395807e refs/tags/v0.10.9
+      08d234b743388dcb4a38a502a033ed7b7a7e3614 refs/tags/v0.11.0
+      549a1885573ebfa7dff8859e88d91e451fb4cd31 refs/tags/v0.11.1
+      f326bd741f7d4c865d2a34b4bb4456a058ae62c5 refs/tags/v0.11.2
+      226fcd03d8ae80740281d170cd4833bb9afcbc26 refs/tags/v0.11.3
+      bf81c1e062b07bce7e17587938d676ed4f5f38d5 refs/tags/v0.11.4
+      9ee50ae785f6e6be84d7b8bc6e77a33c24e33e80 refs/tags/v0.11.5
+      92c962cd2e25f059b5ebe7d6168b9b74ffd0ec98 refs/tags/v0.12.0
+      05221d62d41e50cc52857edd1f626c16d601753a refs/tags/v0.12.1
+      1d833db2ef0bb41a612a3489050ff6bc729ac03f refs/tags/v0.12.2
+      2f4f9e7e88b7bb32062bcb4dd715ceb73928416c refs/tags/v0.12.3
+      24b9e9abe2642dda871b2c618056bc78bff01943 refs/tags/v0.12.4
+      630cfa10b1f4d505b9d7b6ce0470813552f20188 refs/tags/v0.12.5
+      c2154b1304c34ed4c9a34170263a406a92154ddd refs/tags/v0.12.6
+      3f312a5695f6bff223280fd53733122ba4b48a9a refs/tags/v0.12.7
+      ef2c2261c28b2e55dee4acaaa64249451e8f3063 refs/tags/v0.12.8
+      a62244dc127b84b78a795e914d8f20c00a3ebdf6 refs/tags/v0.12.9
+      42e2c0ec334a1fa782a1060d276a9f9edb740056 refs/tags/v0.13.0
+      1faca795929e108d338f3d5fe09a2c0e7c536070 refs/tags/v0.13.1
+      39b65d5e4b10f6a3a502e1e21100feaa238a3da4 refs/tags/v0.13.2
+      a2f554c2d9e1cde2d9283f5dfe865a7c779f496c refs/tags/v0.13.3
+      f8e20c23af95f863ded4ebdf4c77476180227754 refs/tags/v0.13.4
+      5eb2137488a68afefd5b1e3284e801fc6bc503f1 refs/tags/v0.13.5
+      b122764c0b930a5a712658cb40f3ad225f2af7b8 refs/tags/v0.13.6
+      73fe44a0e59b28090cc65f7abf96f684af784cd2 refs/tags/v0.13.7
+      dd3e0af3aad7d74b6d8dcf7bac9cabda0600053c refs/tags/v0.13.8
+      da320501e74dd0bb8defea2164cfa3e1eff9ed8c refs/tags/v0.14.0
+      8137f6ce16d5ca019cf3b36d74efd21f27a47b21 refs/tags/v0.15.0
+      0bd1ff86b6e0f8b522a43bbf23fc80e3052a60f7 refs/tags/v0.15.1
+      924794a846c4c6163a8dfffe015ad70bb48572cb refs/tags/v0.15.2
+      68fa0e45f3216a76e9133ede63cebccc11b82da3 refs/tags/v0.15.3
+      08849cbaeaf506a443696211cbbcea2ea958b5fc refs/tags/v0.15.4
+      70c1fea668b24f849fd73b1e84bcf921785bcf55 refs/tags/v0.15.5
+      152cc63dbe8d82f53d6fdb98c8e5ee4678b15ba6 refs/tags/v0.15.6
+      f9427530b6402555166f494984c47f422a1fd90b refs/tags/v0.15.7
+      a7ddf038d1689ee3516b5dc406b43270b892e682 refs/tags/v0.15.8
+      b71de1137c2da3d6f95ac8eb5174cff9d7de3c8a refs/tags/v0.16.0
+      45998205600762f0fc445a35e5afdf5fd0410d3b refs/tags/v0.16.1
+      4ff73e0eda5ff439fd786e4a3bea8568abc95fe2 refs/tags/v0.16.10
+      c39d702f08093b9a4694c4a7e74ce072a2247d94 refs/tags/v0.16.2
+      4a626cb73fed89e15edf5f5cd76b68846107110b refs/tags/v0.16.3
+      5752f597f2a29041d0a13dc5d85074ef604a5d97 refs/tags/v0.16.4
+      e7216d297b0cbd0ac2ebb7edff2824ba26d9a00c refs/tags/v0.16.5
+      f57a266970d04fc34ef58cbbd6bbadd2d4caf583 refs/tags/v0.16.6
+      366ded98b7775d0bb15444dad6f64069b31a6757 refs/tags/v0.16.7
+      e905846288b4e2ce6f1732b5af69e7536be30b0e refs/tags/v0.16.8
+      8f03e489d73221a268c50824ac02c286c78130a4 refs/tags/v0.16.9
+      ea4525db4affee7464a95b33eb37b0390e428b6d refs/tags/v0.17.0
+      20bd9c7e078ef2e0305e75ac2861a073b9d5e846 refs/tags/v0.17.1
+      e1cf5161400391ba9cf90f144b7276d724bef4df refs/tags/v0.17.2
+      4c5e668898796eb04b3e62e5aa1537feb7b1b5ba refs/tags/v0.17.3
+      663e70f372c419e3c5489ea6d54b85dd436107e7 refs/tags/v0.17.4
+      341b15d16bc41b5ecc04ef62e4c4529322745ad5 refs/tags/v0.17.5
+      8311af76da375826633485b4be03cac09c696093 refs/tags/v0.17.6
+      181eb1a402c7215882df3e3323e7bd6df2a442a3 refs/tags/v0.17.7
+      03243d8e0fb4c6adb059b2cab29a17792acd1335 refs/tags/v0.17.8
+      692047450a932bcdd5aba8454ab1c8b89359e5dd refs/tags/v0.18.0
+      0b6ee887f306e39cf02aecb9cbe1d8502660d855 refs/tags/v0.18.1
+      b7eec7b56540fb80ee4b6a48aac8c02daad098cd refs/tags/v0.18.2
+      5e897c815f517e18ff887da58382e12289613369 refs/tags/v0.19.0
+      7c17ec3e26a44ed41fda528eb933e30432520e4b refs/tags/v0.19.1
+      9db34d8f519cd11212be07c83e3c2097c28865ab refs/tags/v0.2.0
+      2be7635e0683af2c4fda6347babdf41cc4566d89 refs/tags/v0.2.1
+      3fa5b895e1b818d6cb1ad8c863852f90d94882dd refs/tags/v0.3.0
+      027b39aa8e9472f757a971efe94e45203dc232d5 refs/tags/v0.3.1
+      a113feadff4e83cf46d0f2cf706864c21e62a4d9 refs/tags/v0.3.2
+      96b3a42495f5332a5f1e414ef258edbed9b48681 refs/tags/v0.4.0
+      04d966c115e11479daaea6e5a1bad1f1a9625782 refs/tags/v0.5.0
+      7d380cda11fbc890b5c24ac4608b8e49dc161444 refs/tags/v0.6.0
+      bf4ac9a24e9fb96ca197629ca52f0123d9a6b536 refs/tags/v0.6.1
+      80fbe635edc55e65ad72d879bfde81d98cabab31 refs/tags/v0.6.2
+      31af4ccd9f8cb4d206aa6c2e4d401d9398d6a8ba refs/tags/v0.7.0
+      592dd9ccd55af2892ac80d1fbbd7288bdc48cf1a refs/tags/v0.8.0
+      3d8d8cc90621b29f7653ed970e1b6fcfa4edf4d2 refs/tags/v0.8.1
+      0908bb6f9c63f139a5aab01d4cedaf03ade75dec refs/tags/v0.8.10
+      f85d759123671d3c5abc7e06c64e1e345efd2a0a refs/tags/v0.8.11
+      cceb01703cc1e5b9ffdaba3d76cc369b7aca3517 refs/tags/v0.8.12
+      c5cdb317f74e1f28642b148eef828f46ae288b60 refs/tags/v0.8.13
+      abde7885b0609766ef5247c3610bf3e320798393 refs/tags/v0.8.14
+      e02afa3b4e9ea0053af9d051f65ec0e6c870c4ee refs/tags/v0.8.15
+      8d2a777ab4040965efdce8d049198b05f253bae2 refs/tags/v0.8.2
+      1702bf96016b30535ad3b54e17ca9fa8aa7e35e6 refs/tags/v0.8.3
+      247c72776557c3c02f2b80c0d9d03e178a1b4cbc refs/tags/v0.8.4
+      48783f27984410a8754f279009c6f08e27689338 refs/tags/v0.8.5
+      195e6f0b6b030f385ab567c7e0e6e0eff8f38b78 refs/tags/v0.8.6
+      ca0f4c434e46b3e4bec408a7152d2c4c676b4084 refs/tags/v0.8.7
+      bcf6d4c8701b3185282db2453c753acc0a6eb7be refs/tags/v0.8.8
+      ef6dbd3c761663f9cedc16a50d6aeb21f0d1ac77 refs/tags/v0.8.9
+      3be9b8f3bbf5c33c1379f8ddb2d719dd819b1445 refs/tags/v0.9.0
+      188fc73005f92d3c585527215d30e6e90ffa7c41 refs/tags/v0.9.1
+      fa3193c5ec48982682ed7e3a264adc5c7e7dfc73 refs/tags/v0.9.2
+      6a009f17a9808598aab62b7aeb06c7fe37926683 refs/tags/v0.9.3
+      dbd3eeee8a77d7305bc3eda9fe61ea25377951a5 refs/tags/v0.9.4
+      7540dbfc3e4e73c9f16a99bd662fd0872c55f774 refs/tags/v0.9.5
+      abb7e454cfb0a9aaf0458d4014c2a945736b99d0 refs/tags/v0.9.5.1
+      9041103b66f01adaa00bdddff8e7fa8989911db6 refs/tags/v0.9.6
+      3fa8069bf6965c9149c87670459a65b2fe55eb52 refs/tags/v0.9.7
+      f4c30c4ac6f1b152ddb8e3876ac058662e7455dd refs/tags/v0.9.8
+      [90m✓[m stable resolves to d000b39.
+    [90m}[m [32m✓ resolvable ref.babushka[m
+    [90m$ git rev-parse --git-dir[m
+    .git
+    [90m$ git rev-parse --short HEAD[m
+    298166f
+    [90m$ git rev-parse --git-dir[m
+    .git
+    [90m$ git rev-parse --git-dir[m
+    .git
+    [90m$ git show-ref[m
+    298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/heads/master
+    298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/remotes/origin/HEAD
+    298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/remotes/origin/master
+    d000b395d376f959b5afcf6b0e3857832ae339d5 refs/remotes/origin/stable
+    8b84d077041bba6548c4c3697dac8228e9c7588a refs/tags/v0.1.0
+    bd2b53c71c95ab2d8af104d7aecf893874a48436 refs/tags/v0.1.1
+    40054c2e7b9c382ff01ea26b70725a3271ac3eda refs/tags/v0.10.0
+    ec5119d0892134e0f7a060026dc76bdb33d50757 refs/tags/v0.10.1
+    18969b4d7b22e20a2618e37eca0372ba2081a47d refs/tags/v0.10.10
+    5b84292d6893b4f4ba31494a0c4117135e9b084f refs/tags/v0.10.11
+    76c7433e9077daba9cfa8f98a388b36fd937348f refs/tags/v0.10.2
+    d5b6a0e191f2000fa946139ff1333985beb413d9 refs/tags/v0.10.3
+    77999ae6e18eda36703bbf3fdbdfb8450aaf3135 refs/tags/v0.10.4
+    28721e43e4540eadc6fcaa61ee498da1be942893 refs/tags/v0.10.5
+    0e6700f1463d5da43b95cd0c5b2670ba7b9fed88 refs/tags/v0.10.6
+    30803beeaf2fd87234088f0375be63520dd40685 refs/tags/v0.10.7
+    f90b8df679bfa1362803a0bf25637440d75917d1 refs/tags/v0.10.8
+    2eadc01ea01fae3a4f92797a4194a273b395807e refs/tags/v0.10.9
+    08d234b743388dcb4a38a502a033ed7b7a7e3614 refs/tags/v0.11.0
+    549a1885573ebfa7dff8859e88d91e451fb4cd31 refs/tags/v0.11.1
+    f326bd741f7d4c865d2a34b4bb4456a058ae62c5 refs/tags/v0.11.2
+    226fcd03d8ae80740281d170cd4833bb9afcbc26 refs/tags/v0.11.3
+    bf81c1e062b07bce7e17587938d676ed4f5f38d5 refs/tags/v0.11.4
+    9ee50ae785f6e6be84d7b8bc6e77a33c24e33e80 refs/tags/v0.11.5
+    92c962cd2e25f059b5ebe7d6168b9b74ffd0ec98 refs/tags/v0.12.0
+    05221d62d41e50cc52857edd1f626c16d601753a refs/tags/v0.12.1
+    1d833db2ef0bb41a612a3489050ff6bc729ac03f refs/tags/v0.12.2
+    2f4f9e7e88b7bb32062bcb4dd715ceb73928416c refs/tags/v0.12.3
+    24b9e9abe2642dda871b2c618056bc78bff01943 refs/tags/v0.12.4
+    630cfa10b1f4d505b9d7b6ce0470813552f20188 refs/tags/v0.12.5
+    c2154b1304c34ed4c9a34170263a406a92154ddd refs/tags/v0.12.6
+    3f312a5695f6bff223280fd53733122ba4b48a9a refs/tags/v0.12.7
+    ef2c2261c28b2e55dee4acaaa64249451e8f3063 refs/tags/v0.12.8
+    a62244dc127b84b78a795e914d8f20c00a3ebdf6 refs/tags/v0.12.9
+    42e2c0ec334a1fa782a1060d276a9f9edb740056 refs/tags/v0.13.0
+    1faca795929e108d338f3d5fe09a2c0e7c536070 refs/tags/v0.13.1
+    39b65d5e4b10f6a3a502e1e21100feaa238a3da4 refs/tags/v0.13.2
+    a2f554c2d9e1cde2d9283f5dfe865a7c779f496c refs/tags/v0.13.3
+    f8e20c23af95f863ded4ebdf4c77476180227754 refs/tags/v0.13.4
+    5eb2137488a68afefd5b1e3284e801fc6bc503f1 refs/tags/v0.13.5
+    b122764c0b930a5a712658cb40f3ad225f2af7b8 refs/tags/v0.13.6
+    73fe44a0e59b28090cc65f7abf96f684af784cd2 refs/tags/v0.13.7
+    dd3e0af3aad7d74b6d8dcf7bac9cabda0600053c refs/tags/v0.13.8
+    da320501e74dd0bb8defea2164cfa3e1eff9ed8c refs/tags/v0.14.0
+    8137f6ce16d5ca019cf3b36d74efd21f27a47b21 refs/tags/v0.15.0
+    0bd1ff86b6e0f8b522a43bbf23fc80e3052a60f7 refs/tags/v0.15.1
+    924794a846c4c6163a8dfffe015ad70bb48572cb refs/tags/v0.15.2
+    68fa0e45f3216a76e9133ede63cebccc11b82da3 refs/tags/v0.15.3
+    08849cbaeaf506a443696211cbbcea2ea958b5fc refs/tags/v0.15.4
+    70c1fea668b24f849fd73b1e84bcf921785bcf55 refs/tags/v0.15.5
+    152cc63dbe8d82f53d6fdb98c8e5ee4678b15ba6 refs/tags/v0.15.6
+    f9427530b6402555166f494984c47f422a1fd90b refs/tags/v0.15.7
+    a7ddf038d1689ee3516b5dc406b43270b892e682 refs/tags/v0.15.8
+    b71de1137c2da3d6f95ac8eb5174cff9d7de3c8a refs/tags/v0.16.0
+    45998205600762f0fc445a35e5afdf5fd0410d3b refs/tags/v0.16.1
+    4ff73e0eda5ff439fd786e4a3bea8568abc95fe2 refs/tags/v0.16.10
+    c39d702f08093b9a4694c4a7e74ce072a2247d94 refs/tags/v0.16.2
+    4a626cb73fed89e15edf5f5cd76b68846107110b refs/tags/v0.16.3
+    5752f597f2a29041d0a13dc5d85074ef604a5d97 refs/tags/v0.16.4
+    e7216d297b0cbd0ac2ebb7edff2824ba26d9a00c refs/tags/v0.16.5
+    f57a266970d04fc34ef58cbbd6bbadd2d4caf583 refs/tags/v0.16.6
+    366ded98b7775d0bb15444dad6f64069b31a6757 refs/tags/v0.16.7
+    e905846288b4e2ce6f1732b5af69e7536be30b0e refs/tags/v0.16.8
+    8f03e489d73221a268c50824ac02c286c78130a4 refs/tags/v0.16.9
+    ea4525db4affee7464a95b33eb37b0390e428b6d refs/tags/v0.17.0
+    20bd9c7e078ef2e0305e75ac2861a073b9d5e846 refs/tags/v0.17.1
+    e1cf5161400391ba9cf90f144b7276d724bef4df refs/tags/v0.17.2
+    4c5e668898796eb04b3e62e5aa1537feb7b1b5ba refs/tags/v0.17.3
+    663e70f372c419e3c5489ea6d54b85dd436107e7 refs/tags/v0.17.4
+    341b15d16bc41b5ecc04ef62e4c4529322745ad5 refs/tags/v0.17.5
+    8311af76da375826633485b4be03cac09c696093 refs/tags/v0.17.6
+    181eb1a402c7215882df3e3323e7bd6df2a442a3 refs/tags/v0.17.7
+    03243d8e0fb4c6adb059b2cab29a17792acd1335 refs/tags/v0.17.8
+    692047450a932bcdd5aba8454ab1c8b89359e5dd refs/tags/v0.18.0
+    0b6ee887f306e39cf02aecb9cbe1d8502660d855 refs/tags/v0.18.1
+    b7eec7b56540fb80ee4b6a48aac8c02daad098cd refs/tags/v0.18.2
+    5e897c815f517e18ff887da58382e12289613369 refs/tags/v0.19.0
+    7c17ec3e26a44ed41fda528eb933e30432520e4b refs/tags/v0.19.1
+    9db34d8f519cd11212be07c83e3c2097c28865ab refs/tags/v0.2.0
+    2be7635e0683af2c4fda6347babdf41cc4566d89 refs/tags/v0.2.1
+    3fa5b895e1b818d6cb1ad8c863852f90d94882dd refs/tags/v0.3.0
+    027b39aa8e9472f757a971efe94e45203dc232d5 refs/tags/v0.3.1
+    a113feadff4e83cf46d0f2cf706864c21e62a4d9 refs/tags/v0.3.2
+    96b3a42495f5332a5f1e414ef258edbed9b48681 refs/tags/v0.4.0
+    04d966c115e11479daaea6e5a1bad1f1a9625782 refs/tags/v0.5.0
+    7d380cda11fbc890b5c24ac4608b8e49dc161444 refs/tags/v0.6.0
+    bf4ac9a24e9fb96ca197629ca52f0123d9a6b536 refs/tags/v0.6.1
+    80fbe635edc55e65ad72d879bfde81d98cabab31 refs/tags/v0.6.2
+    31af4ccd9f8cb4d206aa6c2e4d401d9398d6a8ba refs/tags/v0.7.0
+    592dd9ccd55af2892ac80d1fbbd7288bdc48cf1a refs/tags/v0.8.0
+    3d8d8cc90621b29f7653ed970e1b6fcfa4edf4d2 refs/tags/v0.8.1
+    0908bb6f9c63f139a5aab01d4cedaf03ade75dec refs/tags/v0.8.10
+    f85d759123671d3c5abc7e06c64e1e345efd2a0a refs/tags/v0.8.11
+    cceb01703cc1e5b9ffdaba3d76cc369b7aca3517 refs/tags/v0.8.12
+    c5cdb317f74e1f28642b148eef828f46ae288b60 refs/tags/v0.8.13
+    abde7885b0609766ef5247c3610bf3e320798393 refs/tags/v0.8.14
+    e02afa3b4e9ea0053af9d051f65ec0e6c870c4ee refs/tags/v0.8.15
+    8d2a777ab4040965efdce8d049198b05f253bae2 refs/tags/v0.8.2
+    1702bf96016b30535ad3b54e17ca9fa8aa7e35e6 refs/tags/v0.8.3
+    247c72776557c3c02f2b80c0d9d03e178a1b4cbc refs/tags/v0.8.4
+    48783f27984410a8754f279009c6f08e27689338 refs/tags/v0.8.5
+    195e6f0b6b030f385ab567c7e0e6e0eff8f38b78 refs/tags/v0.8.6
+    ca0f4c434e46b3e4bec408a7152d2c4c676b4084 refs/tags/v0.8.7
+    bcf6d4c8701b3185282db2453c753acc0a6eb7be refs/tags/v0.8.8
+    ef6dbd3c761663f9cedc16a50d6aeb21f0d1ac77 refs/tags/v0.8.9
+    3be9b8f3bbf5c33c1379f8ddb2d719dd819b1445 refs/tags/v0.9.0
+    188fc73005f92d3c585527215d30e6e90ffa7c41 refs/tags/v0.9.1
+    fa3193c5ec48982682ed7e3a264adc5c7e7dfc73 refs/tags/v0.9.2
+    6a009f17a9808598aab62b7aeb06c7fe37926683 refs/tags/v0.9.3
+    dbd3eeee8a77d7305bc3eda9fe61ea25377951a5 refs/tags/v0.9.4
+    7540dbfc3e4e73c9f16a99bd662fd0872c55f774 refs/tags/v0.9.5
+    abb7e454cfb0a9aaf0458d4014c2a945736b99d0 refs/tags/v0.9.5.1
+    9041103b66f01adaa00bdddff8e7fa8989911db6 refs/tags/v0.9.6
+    3fa8069bf6965c9149c87670459a65b2fe55eb52 refs/tags/v0.9.7
+    f4c30c4ac6f1b152ddb8e3876ac058662e7455dd refs/tags/v0.9.8
+    [90m$ git rev-parse --git-dir[m
+    .git
+    [90m$ git rev-parse --short origin/stable^{commit}[m
+    d000b39
+    [90m$ git rev-parse --git-dir[m
+    .git
+    [90m$ git rev-parse --short HEAD[m
+    298166f
+    [90m$ git rev-parse --git-dir[m
+    .git
+    [90m$ git rev-parse --git-dir[m
+    .git
+    [90m$ git show-ref[m
+    298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/heads/master
+    298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/remotes/origin/HEAD
+    298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/remotes/origin/master
+    d000b395d376f959b5afcf6b0e3857832ae339d5 refs/remotes/origin/stable
+    8b84d077041bba6548c4c3697dac8228e9c7588a refs/tags/v0.1.0
+    bd2b53c71c95ab2d8af104d7aecf893874a48436 refs/tags/v0.1.1
+    40054c2e7b9c382ff01ea26b70725a3271ac3eda refs/tags/v0.10.0
+    ec5119d0892134e0f7a060026dc76bdb33d50757 refs/tags/v0.10.1
+    18969b4d7b22e20a2618e37eca0372ba2081a47d refs/tags/v0.10.10
+    5b84292d6893b4f4ba31494a0c4117135e9b084f refs/tags/v0.10.11
+    76c7433e9077daba9cfa8f98a388b36fd937348f refs/tags/v0.10.2
+    d5b6a0e191f2000fa946139ff1333985beb413d9 refs/tags/v0.10.3
+    77999ae6e18eda36703bbf3fdbdfb8450aaf3135 refs/tags/v0.10.4
+    28721e43e4540eadc6fcaa61ee498da1be942893 refs/tags/v0.10.5
+    0e6700f1463d5da43b95cd0c5b2670ba7b9fed88 refs/tags/v0.10.6
+    30803beeaf2fd87234088f0375be63520dd40685 refs/tags/v0.10.7
+    f90b8df679bfa1362803a0bf25637440d75917d1 refs/tags/v0.10.8
+    2eadc01ea01fae3a4f92797a4194a273b395807e refs/tags/v0.10.9
+    08d234b743388dcb4a38a502a033ed7b7a7e3614 refs/tags/v0.11.0
+    549a1885573ebfa7dff8859e88d91e451fb4cd31 refs/tags/v0.11.1
+    f326bd741f7d4c865d2a34b4bb4456a058ae62c5 refs/tags/v0.11.2
+    226fcd03d8ae80740281d170cd4833bb9afcbc26 refs/tags/v0.11.3
+    bf81c1e062b07bce7e17587938d676ed4f5f38d5 refs/tags/v0.11.4
+    9ee50ae785f6e6be84d7b8bc6e77a33c24e33e80 refs/tags/v0.11.5
+    92c962cd2e25f059b5ebe7d6168b9b74ffd0ec98 refs/tags/v0.12.0
+    05221d62d41e50cc52857edd1f626c16d601753a refs/tags/v0.12.1
+    1d833db2ef0bb41a612a3489050ff6bc729ac03f refs/tags/v0.12.2
+    2f4f9e7e88b7bb32062bcb4dd715ceb73928416c refs/tags/v0.12.3
+    24b9e9abe2642dda871b2c618056bc78bff01943 refs/tags/v0.12.4
+    630cfa10b1f4d505b9d7b6ce0470813552f20188 refs/tags/v0.12.5
+    c2154b1304c34ed4c9a34170263a406a92154ddd refs/tags/v0.12.6
+    3f312a5695f6bff223280fd53733122ba4b48a9a refs/tags/v0.12.7
+    ef2c2261c28b2e55dee4acaaa64249451e8f3063 refs/tags/v0.12.8
+    a62244dc127b84b78a795e914d8f20c00a3ebdf6 refs/tags/v0.12.9
+    42e2c0ec334a1fa782a1060d276a9f9edb740056 refs/tags/v0.13.0
+    1faca795929e108d338f3d5fe09a2c0e7c536070 refs/tags/v0.13.1
+    39b65d5e4b10f6a3a502e1e21100feaa238a3da4 refs/tags/v0.13.2
+    a2f554c2d9e1cde2d9283f5dfe865a7c779f496c refs/tags/v0.13.3
+    f8e20c23af95f863ded4ebdf4c77476180227754 refs/tags/v0.13.4
+    5eb2137488a68afefd5b1e3284e801fc6bc503f1 refs/tags/v0.13.5
+    b122764c0b930a5a712658cb40f3ad225f2af7b8 refs/tags/v0.13.6
+    73fe44a0e59b28090cc65f7abf96f684af784cd2 refs/tags/v0.13.7
+    dd3e0af3aad7d74b6d8dcf7bac9cabda0600053c refs/tags/v0.13.8
+    da320501e74dd0bb8defea2164cfa3e1eff9ed8c refs/tags/v0.14.0
+    8137f6ce16d5ca019cf3b36d74efd21f27a47b21 refs/tags/v0.15.0
+    0bd1ff86b6e0f8b522a43bbf23fc80e3052a60f7 refs/tags/v0.15.1
+    924794a846c4c6163a8dfffe015ad70bb48572cb refs/tags/v0.15.2
+    68fa0e45f3216a76e9133ede63cebccc11b82da3 refs/tags/v0.15.3
+    08849cbaeaf506a443696211cbbcea2ea958b5fc refs/tags/v0.15.4
+    70c1fea668b24f849fd73b1e84bcf921785bcf55 refs/tags/v0.15.5
+    152cc63dbe8d82f53d6fdb98c8e5ee4678b15ba6 refs/tags/v0.15.6
+    f9427530b6402555166f494984c47f422a1fd90b refs/tags/v0.15.7
+    a7ddf038d1689ee3516b5dc406b43270b892e682 refs/tags/v0.15.8
+    b71de1137c2da3d6f95ac8eb5174cff9d7de3c8a refs/tags/v0.16.0
+    45998205600762f0fc445a35e5afdf5fd0410d3b refs/tags/v0.16.1
+    4ff73e0eda5ff439fd786e4a3bea8568abc95fe2 refs/tags/v0.16.10
+    c39d702f08093b9a4694c4a7e74ce072a2247d94 refs/tags/v0.16.2
+    4a626cb73fed89e15edf5f5cd76b68846107110b refs/tags/v0.16.3
+    5752f597f2a29041d0a13dc5d85074ef604a5d97 refs/tags/v0.16.4
+    e7216d297b0cbd0ac2ebb7edff2824ba26d9a00c refs/tags/v0.16.5
+    f57a266970d04fc34ef58cbbd6bbadd2d4caf583 refs/tags/v0.16.6
+    366ded98b7775d0bb15444dad6f64069b31a6757 refs/tags/v0.16.7
+    e905846288b4e2ce6f1732b5af69e7536be30b0e refs/tags/v0.16.8
+    8f03e489d73221a268c50824ac02c286c78130a4 refs/tags/v0.16.9
+    ea4525db4affee7464a95b33eb37b0390e428b6d refs/tags/v0.17.0
+    20bd9c7e078ef2e0305e75ac2861a073b9d5e846 refs/tags/v0.17.1
+    e1cf5161400391ba9cf90f144b7276d724bef4df refs/tags/v0.17.2
+    4c5e668898796eb04b3e62e5aa1537feb7b1b5ba refs/tags/v0.17.3
+    663e70f372c419e3c5489ea6d54b85dd436107e7 refs/tags/v0.17.4
+    341b15d16bc41b5ecc04ef62e4c4529322745ad5 refs/tags/v0.17.5
+    8311af76da375826633485b4be03cac09c696093 refs/tags/v0.17.6
+    181eb1a402c7215882df3e3323e7bd6df2a442a3 refs/tags/v0.17.7
+    03243d8e0fb4c6adb059b2cab29a17792acd1335 refs/tags/v0.17.8
+    692047450a932bcdd5aba8454ab1c8b89359e5dd refs/tags/v0.18.0
+    0b6ee887f306e39cf02aecb9cbe1d8502660d855 refs/tags/v0.18.1
+    b7eec7b56540fb80ee4b6a48aac8c02daad098cd refs/tags/v0.18.2
+    5e897c815f517e18ff887da58382e12289613369 refs/tags/v0.19.0
+    7c17ec3e26a44ed41fda528eb933e30432520e4b refs/tags/v0.19.1
+    9db34d8f519cd11212be07c83e3c2097c28865ab refs/tags/v0.2.0
+    2be7635e0683af2c4fda6347babdf41cc4566d89 refs/tags/v0.2.1
+    3fa5b895e1b818d6cb1ad8c863852f90d94882dd refs/tags/v0.3.0
+    027b39aa8e9472f757a971efe94e45203dc232d5 refs/tags/v0.3.1
+    a113feadff4e83cf46d0f2cf706864c21e62a4d9 refs/tags/v0.3.2
+    96b3a42495f5332a5f1e414ef258edbed9b48681 refs/tags/v0.4.0
+    04d966c115e11479daaea6e5a1bad1f1a9625782 refs/tags/v0.5.0
+    7d380cda11fbc890b5c24ac4608b8e49dc161444 refs/tags/v0.6.0
+    bf4ac9a24e9fb96ca197629ca52f0123d9a6b536 refs/tags/v0.6.1
+    80fbe635edc55e65ad72d879bfde81d98cabab31 refs/tags/v0.6.2
+    31af4ccd9f8cb4d206aa6c2e4d401d9398d6a8ba refs/tags/v0.7.0
+    592dd9ccd55af2892ac80d1fbbd7288bdc48cf1a refs/tags/v0.8.0
+    3d8d8cc90621b29f7653ed970e1b6fcfa4edf4d2 refs/tags/v0.8.1
+    0908bb6f9c63f139a5aab01d4cedaf03ade75dec refs/tags/v0.8.10
+    f85d759123671d3c5abc7e06c64e1e345efd2a0a refs/tags/v0.8.11
+    cceb01703cc1e5b9ffdaba3d76cc369b7aca3517 refs/tags/v0.8.12
+    c5cdb317f74e1f28642b148eef828f46ae288b60 refs/tags/v0.8.13
+    abde7885b0609766ef5247c3610bf3e320798393 refs/tags/v0.8.14
+    e02afa3b4e9ea0053af9d051f65ec0e6c870c4ee refs/tags/v0.8.15
+    8d2a777ab4040965efdce8d049198b05f253bae2 refs/tags/v0.8.2
+    1702bf96016b30535ad3b54e17ca9fa8aa7e35e6 refs/tags/v0.8.3
+    247c72776557c3c02f2b80c0d9d03e178a1b4cbc refs/tags/v0.8.4
+    48783f27984410a8754f279009c6f08e27689338 refs/tags/v0.8.5
+    195e6f0b6b030f385ab567c7e0e6e0eff8f38b78 refs/tags/v0.8.6
+    ca0f4c434e46b3e4bec408a7152d2c4c676b4084 refs/tags/v0.8.7
+    bcf6d4c8701b3185282db2453c753acc0a6eb7be refs/tags/v0.8.8
+    ef6dbd3c761663f9cedc16a50d6aeb21f0d1ac77 refs/tags/v0.8.9
+    3be9b8f3bbf5c33c1379f8ddb2d719dd819b1445 refs/tags/v0.9.0
+    188fc73005f92d3c585527215d30e6e90ffa7c41 refs/tags/v0.9.1
+    fa3193c5ec48982682ed7e3a264adc5c7e7dfc73 refs/tags/v0.9.2
+    6a009f17a9808598aab62b7aeb06c7fe37926683 refs/tags/v0.9.3
+    dbd3eeee8a77d7305bc3eda9fe61ea25377951a5 refs/tags/v0.9.4
+    7540dbfc3e4e73c9f16a99bd662fd0872c55f774 refs/tags/v0.9.5
+    abb7e454cfb0a9aaf0458d4014c2a945736b99d0 refs/tags/v0.9.5.1
+    9041103b66f01adaa00bdddff8e7fa8989911db6 refs/tags/v0.9.6
+    3fa8069bf6965c9149c87670459a65b2fe55eb52 refs/tags/v0.9.7
+    f4c30c4ac6f1b152ddb8e3876ac058662e7455dd refs/tags/v0.9.8
+    [90m$ git rev-parse --git-dir[m
+    .git
+    [90m$ git rev-parse --short origin/stable^{commit}[m
+    d000b39
+    babushka can be updated: 298166f..d000b39
+    [90m$ git rev-parse --git-dir[m
+    [1mfatal: Not a git repository (or any of the parent directories): .git[m
+    prepare not defined.
+    [90mmeet {[m
+      before not defined.
+      [90m$ git rev-parse --git-dir[m
+      .git
+      [90m$ git rev-parse --short HEAD[m
+      298166f
+      [90m$ git rev-parse --git-dir[m
+      .git
+      [90m$ git rev-parse --git-dir[m
+      .git
+      [90m$ git show-ref[m
+      298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/heads/master
+      298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/remotes/origin/HEAD
+      298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/remotes/origin/master
+      d000b395d376f959b5afcf6b0e3857832ae339d5 refs/remotes/origin/stable
+      8b84d077041bba6548c4c3697dac8228e9c7588a refs/tags/v0.1.0
+      bd2b53c71c95ab2d8af104d7aecf893874a48436 refs/tags/v0.1.1
+      40054c2e7b9c382ff01ea26b70725a3271ac3eda refs/tags/v0.10.0
+      ec5119d0892134e0f7a060026dc76bdb33d50757 refs/tags/v0.10.1
+      18969b4d7b22e20a2618e37eca0372ba2081a47d refs/tags/v0.10.10
+      5b84292d6893b4f4ba31494a0c4117135e9b084f refs/tags/v0.10.11
+      76c7433e9077daba9cfa8f98a388b36fd937348f refs/tags/v0.10.2
+      d5b6a0e191f2000fa946139ff1333985beb413d9 refs/tags/v0.10.3
+      77999ae6e18eda36703bbf3fdbdfb8450aaf3135 refs/tags/v0.10.4
+      28721e43e4540eadc6fcaa61ee498da1be942893 refs/tags/v0.10.5
+      0e6700f1463d5da43b95cd0c5b2670ba7b9fed88 refs/tags/v0.10.6
+      30803beeaf2fd87234088f0375be63520dd40685 refs/tags/v0.10.7
+      f90b8df679bfa1362803a0bf25637440d75917d1 refs/tags/v0.10.8
+      2eadc01ea01fae3a4f92797a4194a273b395807e refs/tags/v0.10.9
+      08d234b743388dcb4a38a502a033ed7b7a7e3614 refs/tags/v0.11.0
+      549a1885573ebfa7dff8859e88d91e451fb4cd31 refs/tags/v0.11.1
+      f326bd741f7d4c865d2a34b4bb4456a058ae62c5 refs/tags/v0.11.2
+      226fcd03d8ae80740281d170cd4833bb9afcbc26 refs/tags/v0.11.3
+      bf81c1e062b07bce7e17587938d676ed4f5f38d5 refs/tags/v0.11.4
+      9ee50ae785f6e6be84d7b8bc6e77a33c24e33e80 refs/tags/v0.11.5
+      92c962cd2e25f059b5ebe7d6168b9b74ffd0ec98 refs/tags/v0.12.0
+      05221d62d41e50cc52857edd1f626c16d601753a refs/tags/v0.12.1
+      1d833db2ef0bb41a612a3489050ff6bc729ac03f refs/tags/v0.12.2
+      2f4f9e7e88b7bb32062bcb4dd715ceb73928416c refs/tags/v0.12.3
+      24b9e9abe2642dda871b2c618056bc78bff01943 refs/tags/v0.12.4
+      630cfa10b1f4d505b9d7b6ce0470813552f20188 refs/tags/v0.12.5
+      c2154b1304c34ed4c9a34170263a406a92154ddd refs/tags/v0.12.6
+      3f312a5695f6bff223280fd53733122ba4b48a9a refs/tags/v0.12.7
+      ef2c2261c28b2e55dee4acaaa64249451e8f3063 refs/tags/v0.12.8
+      a62244dc127b84b78a795e914d8f20c00a3ebdf6 refs/tags/v0.12.9
+      42e2c0ec334a1fa782a1060d276a9f9edb740056 refs/tags/v0.13.0
+      1faca795929e108d338f3d5fe09a2c0e7c536070 refs/tags/v0.13.1
+      39b65d5e4b10f6a3a502e1e21100feaa238a3da4 refs/tags/v0.13.2
+      a2f554c2d9e1cde2d9283f5dfe865a7c779f496c refs/tags/v0.13.3
+      f8e20c23af95f863ded4ebdf4c77476180227754 refs/tags/v0.13.4
+      5eb2137488a68afefd5b1e3284e801fc6bc503f1 refs/tags/v0.13.5
+      b122764c0b930a5a712658cb40f3ad225f2af7b8 refs/tags/v0.13.6
+      73fe44a0e59b28090cc65f7abf96f684af784cd2 refs/tags/v0.13.7
+      dd3e0af3aad7d74b6d8dcf7bac9cabda0600053c refs/tags/v0.13.8
+      da320501e74dd0bb8defea2164cfa3e1eff9ed8c refs/tags/v0.14.0
+      8137f6ce16d5ca019cf3b36d74efd21f27a47b21 refs/tags/v0.15.0
+      0bd1ff86b6e0f8b522a43bbf23fc80e3052a60f7 refs/tags/v0.15.1
+      924794a846c4c6163a8dfffe015ad70bb48572cb refs/tags/v0.15.2
+      68fa0e45f3216a76e9133ede63cebccc11b82da3 refs/tags/v0.15.3
+      08849cbaeaf506a443696211cbbcea2ea958b5fc refs/tags/v0.15.4
+      70c1fea668b24f849fd73b1e84bcf921785bcf55 refs/tags/v0.15.5
+      152cc63dbe8d82f53d6fdb98c8e5ee4678b15ba6 refs/tags/v0.15.6
+      f9427530b6402555166f494984c47f422a1fd90b refs/tags/v0.15.7
+      a7ddf038d1689ee3516b5dc406b43270b892e682 refs/tags/v0.15.8
+      b71de1137c2da3d6f95ac8eb5174cff9d7de3c8a refs/tags/v0.16.0
+      45998205600762f0fc445a35e5afdf5fd0410d3b refs/tags/v0.16.1
+      4ff73e0eda5ff439fd786e4a3bea8568abc95fe2 refs/tags/v0.16.10
+      c39d702f08093b9a4694c4a7e74ce072a2247d94 refs/tags/v0.16.2
+      4a626cb73fed89e15edf5f5cd76b68846107110b refs/tags/v0.16.3
+      5752f597f2a29041d0a13dc5d85074ef604a5d97 refs/tags/v0.16.4
+      e7216d297b0cbd0ac2ebb7edff2824ba26d9a00c refs/tags/v0.16.5
+      f57a266970d04fc34ef58cbbd6bbadd2d4caf583 refs/tags/v0.16.6
+      366ded98b7775d0bb15444dad6f64069b31a6757 refs/tags/v0.16.7
+      e905846288b4e2ce6f1732b5af69e7536be30b0e refs/tags/v0.16.8
+      8f03e489d73221a268c50824ac02c286c78130a4 refs/tags/v0.16.9
+      ea4525db4affee7464a95b33eb37b0390e428b6d refs/tags/v0.17.0
+      20bd9c7e078ef2e0305e75ac2861a073b9d5e846 refs/tags/v0.17.1
+      e1cf5161400391ba9cf90f144b7276d724bef4df refs/tags/v0.17.2
+      4c5e668898796eb04b3e62e5aa1537feb7b1b5ba refs/tags/v0.17.3
+      663e70f372c419e3c5489ea6d54b85dd436107e7 refs/tags/v0.17.4
+      341b15d16bc41b5ecc04ef62e4c4529322745ad5 refs/tags/v0.17.5
+      8311af76da375826633485b4be03cac09c696093 refs/tags/v0.17.6
+      181eb1a402c7215882df3e3323e7bd6df2a442a3 refs/tags/v0.17.7
+      03243d8e0fb4c6adb059b2cab29a17792acd1335 refs/tags/v0.17.8
+      692047450a932bcdd5aba8454ab1c8b89359e5dd refs/tags/v0.18.0
+      0b6ee887f306e39cf02aecb9cbe1d8502660d855 refs/tags/v0.18.1
+      b7eec7b56540fb80ee4b6a48aac8c02daad098cd refs/tags/v0.18.2
+      5e897c815f517e18ff887da58382e12289613369 refs/tags/v0.19.0
+      7c17ec3e26a44ed41fda528eb933e30432520e4b refs/tags/v0.19.1
+      9db34d8f519cd11212be07c83e3c2097c28865ab refs/tags/v0.2.0
+      2be7635e0683af2c4fda6347babdf41cc4566d89 refs/tags/v0.2.1
+      3fa5b895e1b818d6cb1ad8c863852f90d94882dd refs/tags/v0.3.0
+      027b39aa8e9472f757a971efe94e45203dc232d5 refs/tags/v0.3.1
+      a113feadff4e83cf46d0f2cf706864c21e62a4d9 refs/tags/v0.3.2
+      96b3a42495f5332a5f1e414ef258edbed9b48681 refs/tags/v0.4.0
+      04d966c115e11479daaea6e5a1bad1f1a9625782 refs/tags/v0.5.0
+      7d380cda11fbc890b5c24ac4608b8e49dc161444 refs/tags/v0.6.0
+      bf4ac9a24e9fb96ca197629ca52f0123d9a6b536 refs/tags/v0.6.1
+      80fbe635edc55e65ad72d879bfde81d98cabab31 refs/tags/v0.6.2
+      31af4ccd9f8cb4d206aa6c2e4d401d9398d6a8ba refs/tags/v0.7.0
+      592dd9ccd55af2892ac80d1fbbd7288bdc48cf1a refs/tags/v0.8.0
+      3d8d8cc90621b29f7653ed970e1b6fcfa4edf4d2 refs/tags/v0.8.1
+      0908bb6f9c63f139a5aab01d4cedaf03ade75dec refs/tags/v0.8.10
+      f85d759123671d3c5abc7e06c64e1e345efd2a0a refs/tags/v0.8.11
+      cceb01703cc1e5b9ffdaba3d76cc369b7aca3517 refs/tags/v0.8.12
+      c5cdb317f74e1f28642b148eef828f46ae288b60 refs/tags/v0.8.13
+      abde7885b0609766ef5247c3610bf3e320798393 refs/tags/v0.8.14
+      e02afa3b4e9ea0053af9d051f65ec0e6c870c4ee refs/tags/v0.8.15
+      8d2a777ab4040965efdce8d049198b05f253bae2 refs/tags/v0.8.2
+      1702bf96016b30535ad3b54e17ca9fa8aa7e35e6 refs/tags/v0.8.3
+      247c72776557c3c02f2b80c0d9d03e178a1b4cbc refs/tags/v0.8.4
+      48783f27984410a8754f279009c6f08e27689338 refs/tags/v0.8.5
+      195e6f0b6b030f385ab567c7e0e6e0eff8f38b78 refs/tags/v0.8.6
+      ca0f4c434e46b3e4bec408a7152d2c4c676b4084 refs/tags/v0.8.7
+      bcf6d4c8701b3185282db2453c753acc0a6eb7be refs/tags/v0.8.8
+      ef6dbd3c761663f9cedc16a50d6aeb21f0d1ac77 refs/tags/v0.8.9
+      3be9b8f3bbf5c33c1379f8ddb2d719dd819b1445 refs/tags/v0.9.0
+      188fc73005f92d3c585527215d30e6e90ffa7c41 refs/tags/v0.9.1
+      fa3193c5ec48982682ed7e3a264adc5c7e7dfc73 refs/tags/v0.9.2
+      6a009f17a9808598aab62b7aeb06c7fe37926683 refs/tags/v0.9.3
+      dbd3eeee8a77d7305bc3eda9fe61ea25377951a5 refs/tags/v0.9.4
+      7540dbfc3e4e73c9f16a99bd662fd0872c55f774 refs/tags/v0.9.5
+      abb7e454cfb0a9aaf0458d4014c2a945736b99d0 refs/tags/v0.9.5.1
+      9041103b66f01adaa00bdddff8e7fa8989911db6 refs/tags/v0.9.6
+      3fa8069bf6965c9149c87670459a65b2fe55eb52 refs/tags/v0.9.7
+      f4c30c4ac6f1b152ddb8e3876ac058662e7455dd refs/tags/v0.9.8
+      [90m$ git rev-parse --git-dir[m
+      .git
+      [90m$ git rev-parse --short origin/stable^{commit}[m
+      d000b39
+      [90m$ git rev-parse --git-dir[m
+      .git
+      [90m$ git diff --stat 298166f..d000b39[m
+       README.markdown                       | 18 ++++++++----------
+       TODO                                  |  2 ++
+       deps/packages.rb                      |  4 ++++
+       deps/templates/managed.rb             |  2 +-
+       lib/babushka.rb                       | 16 ++++++++++++++++
+       lib/babushka/accepts_block_for.rb     |  5 ++---
+       lib/babushka/cmdline.rb               |  2 +-
+       lib/babushka/cmdline/handler.rb       |  2 +-
+       lib/babushka/cmdline/helpers.rb       |  2 +-
+       lib/babushka/core_patches/array.rb    | 38 ++++++++++++++++++++++++--------------
+       lib/babushka/core_patches/bytes.rb    |  6 ------
+       lib/babushka/core_patches/hash.rb     | 35 +++++++++++++++++++++++++++++------
+       lib/babushka/core_patches/hashish.rb  |  2 --
+       lib/babushka/core_patches/integer.rb  |  3 +--
+       lib/babushka/core_patches/numeric.rb  |  3 +--
+       lib/babushka/core_patches/object.rb   | 19 +++++++++++++------
+       lib/babushka/core_patches/string.rb   | 16 ++++++++++++++++
+       lib/babushka/core_patches/symbol.rb   | 12 ++++++++++++
+       lib/babushka/core_patches/try.rb      |  6 +-----
+       lib/babushka/core_patches/uri.rb      | 24 ++++++++++++++++++++++++
+       lib/babushka/dep.rb                   |  4 ++--
+       lib/babushka/dep_context.rb           |  1 +
+       lib/babushka/dep_definer.rb           |  4 ----
+       lib/babushka/dsl.rb                   |  3 ++-
+       lib/babushka/helpers/log_helpers.rb   | 12 ++++++++++++
+       lib/babushka/helpers/run_helpers.rb   |  4 ++++
+       lib/babushka/helpers/uri_helpers.rb   | 17 +++++++++++++++++
+       lib/babushka/lambda_chooser.rb        | 13 ++++++-------
+       lib/babushka/pkg_helper.rb            |  2 +-
+       lib/babushka/prompt.rb                | 29 +++++++++++++++++++++--------
+       lib/babushka/source.rb                |  6 ++----
+       lib/babushka/source_pool.rb           |  5 ++---
+       lib/babushka/spell.rb                 | 30 ------------------------------
+       lib/babushka/system_definition.rb     |  2 --
+       lib/babushka/system_profile.rb        |  9 ++++++++-
+       lib/babushka/task.rb                  |  2 +-
+       lib/babushka/templated_dep_context.rb |  4 ----
+       lib/components.rb                     |  4 +++-
+       lib/fancypath/fancypath.rb            |  8 +++++++-
+       spec/babushka/accepts_for_spec.rb     |  8 ++++----
+       spec/babushka/accepts_for_support.rb  | 16 ++++++++--------
+       spec/babushka/core_patches_spec.rb    | 13 -------------
+       spec/babushka/dep_context_spec.rb     |  6 +++---
+       spec/babushka/dep_definer_spec.rb     |  8 ++++----
+       spec/babushka/git_fs_spec.rb          |  2 +-
+       spec/babushka/source_pool_spec.rb     |  1 +
+       spec/babushka/source_spec.rb          |  5 -----
+       spec/babushka/uri_spec.rb             | 13 +++++++++++++
+       spec/deps/good/test.rb                |  5 -----
+       spec/fancypath/fancypath_spec.rb      | 12 ++++++++++++
+       50 files changed, 292 insertions(+), 173 deletions(-)
+       README.markdown                       | 18 ++++++++----------
+       TODO                                  |  2 ++
+       deps/packages.rb                      |  4 ++++
+       deps/templates/managed.rb             |  2 +-
+       lib/babushka.rb                       | 16 ++++++++++++++++
+       lib/babushka/accepts_block_for.rb     |  5 ++---
+       lib/babushka/cmdline.rb               |  2 +-
+       lib/babushka/cmdline/handler.rb       |  2 +-
+       lib/babushka/cmdline/helpers.rb       |  2 +-
+       lib/babushka/core_patches/array.rb    | 38 ++++++++++++++++++++++++--------------
+       lib/babushka/core_patches/bytes.rb    |  6 ------
+       lib/babushka/core_patches/hash.rb     | 35 +++++++++++++++++++++++++++++------
+       lib/babushka/core_patches/hashish.rb  |  2 --
+       lib/babushka/core_patches/integer.rb  |  3 +--
+       lib/babushka/core_patches/numeric.rb  |  3 +--
+       lib/babushka/core_patches/object.rb   | 19 +++++++++++++------
+       lib/babushka/core_patches/string.rb   | 16 ++++++++++++++++
+       lib/babushka/core_patches/symbol.rb   | 12 ++++++++++++
+       lib/babushka/core_patches/try.rb      |  6 +-----
+       lib/babushka/core_patches/uri.rb      | 24 ++++++++++++++++++++++++
+       lib/babushka/dep.rb                   |  4 ++--
+       lib/babushka/dep_context.rb           |  1 +
+       lib/babushka/dep_definer.rb           |  4 ----
+       lib/babushka/dsl.rb                   |  3 ++-
+       lib/babushka/helpers/log_helpers.rb   | 12 ++++++++++++
+       lib/babushka/helpers/run_helpers.rb   |  4 ++++
+       lib/babushka/helpers/uri_helpers.rb   | 17 +++++++++++++++++
+       lib/babushka/lambda_chooser.rb        | 13 ++++++-------
+       lib/babushka/pkg_helper.rb            |  2 +-
+       lib/babushka/prompt.rb                | 29 +++++++++++++++++++++--------
+       lib/babushka/source.rb                |  6 ++----
+       lib/babushka/source_pool.rb           |  5 ++---
+       lib/babushka/spell.rb                 | 30 ------------------------------
+       lib/babushka/system_definition.rb     |  2 --
+       lib/babushka/system_profile.rb        |  9 ++++++++-
+       lib/babushka/task.rb                  |  2 +-
+       lib/babushka/templated_dep_context.rb |  4 ----
+       lib/components.rb                     |  4 +++-
+       lib/fancypath/fancypath.rb            |  8 +++++++-
+       spec/babushka/accepts_for_spec.rb     |  8 ++++----
+       spec/babushka/accepts_for_support.rb  | 16 ++++++++--------
+       spec/babushka/core_patches_spec.rb    | 13 -------------
+       spec/babushka/dep_context_spec.rb     |  6 +++---
+       spec/babushka/dep_definer_spec.rb     |  8 ++++----
+       spec/babushka/git_fs_spec.rb          |  2 +-
+       spec/babushka/source_pool_spec.rb     |  1 +
+       spec/babushka/source_spec.rb          |  5 -----
+       spec/babushka/uri_spec.rb             | 13 +++++++++++++
+       spec/deps/good/test.rb                |  5 -----
+       spec/fancypath/fancypath_spec.rb      | 12 ++++++++++++
+       50 files changed, 292 insertions(+), 173 deletions(-)
+      [90m$ git rev-parse --git-dir[m
+      .git
+      [90m$ git rev-parse --git-dir[m
+      .git
+      [90m$ git show-ref[m
+      298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/heads/master
+      298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/remotes/origin/HEAD
+      298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/remotes/origin/master
+      d000b395d376f959b5afcf6b0e3857832ae339d5 refs/remotes/origin/stable
+      8b84d077041bba6548c4c3697dac8228e9c7588a refs/tags/v0.1.0
+      bd2b53c71c95ab2d8af104d7aecf893874a48436 refs/tags/v0.1.1
+      40054c2e7b9c382ff01ea26b70725a3271ac3eda refs/tags/v0.10.0
+      ec5119d0892134e0f7a060026dc76bdb33d50757 refs/tags/v0.10.1
+      18969b4d7b22e20a2618e37eca0372ba2081a47d refs/tags/v0.10.10
+      5b84292d6893b4f4ba31494a0c4117135e9b084f refs/tags/v0.10.11
+      76c7433e9077daba9cfa8f98a388b36fd937348f refs/tags/v0.10.2
+      d5b6a0e191f2000fa946139ff1333985beb413d9 refs/tags/v0.10.3
+      77999ae6e18eda36703bbf3fdbdfb8450aaf3135 refs/tags/v0.10.4
+      28721e43e4540eadc6fcaa61ee498da1be942893 refs/tags/v0.10.5
+      0e6700f1463d5da43b95cd0c5b2670ba7b9fed88 refs/tags/v0.10.6
+      30803beeaf2fd87234088f0375be63520dd40685 refs/tags/v0.10.7
+      f90b8df679bfa1362803a0bf25637440d75917d1 refs/tags/v0.10.8
+      2eadc01ea01fae3a4f92797a4194a273b395807e refs/tags/v0.10.9
+      08d234b743388dcb4a38a502a033ed7b7a7e3614 refs/tags/v0.11.0
+      549a1885573ebfa7dff8859e88d91e451fb4cd31 refs/tags/v0.11.1
+      f326bd741f7d4c865d2a34b4bb4456a058ae62c5 refs/tags/v0.11.2
+      226fcd03d8ae80740281d170cd4833bb9afcbc26 refs/tags/v0.11.3
+      bf81c1e062b07bce7e17587938d676ed4f5f38d5 refs/tags/v0.11.4
+      9ee50ae785f6e6be84d7b8bc6e77a33c24e33e80 refs/tags/v0.11.5
+      92c962cd2e25f059b5ebe7d6168b9b74ffd0ec98 refs/tags/v0.12.0
+      05221d62d41e50cc52857edd1f626c16d601753a refs/tags/v0.12.1
+      1d833db2ef0bb41a612a3489050ff6bc729ac03f refs/tags/v0.12.2
+      2f4f9e7e88b7bb32062bcb4dd715ceb73928416c refs/tags/v0.12.3
+      24b9e9abe2642dda871b2c618056bc78bff01943 refs/tags/v0.12.4
+      630cfa10b1f4d505b9d7b6ce0470813552f20188 refs/tags/v0.12.5
+      c2154b1304c34ed4c9a34170263a406a92154ddd refs/tags/v0.12.6
+      3f312a5695f6bff223280fd53733122ba4b48a9a refs/tags/v0.12.7
+      ef2c2261c28b2e55dee4acaaa64249451e8f3063 refs/tags/v0.12.8
+      a62244dc127b84b78a795e914d8f20c00a3ebdf6 refs/tags/v0.12.9
+      42e2c0ec334a1fa782a1060d276a9f9edb740056 refs/tags/v0.13.0
+      1faca795929e108d338f3d5fe09a2c0e7c536070 refs/tags/v0.13.1
+      39b65d5e4b10f6a3a502e1e21100feaa238a3da4 refs/tags/v0.13.2
+      a2f554c2d9e1cde2d9283f5dfe865a7c779f496c refs/tags/v0.13.3
+      f8e20c23af95f863ded4ebdf4c77476180227754 refs/tags/v0.13.4
+      5eb2137488a68afefd5b1e3284e801fc6bc503f1 refs/tags/v0.13.5
+      b122764c0b930a5a712658cb40f3ad225f2af7b8 refs/tags/v0.13.6
+      73fe44a0e59b28090cc65f7abf96f684af784cd2 refs/tags/v0.13.7
+      dd3e0af3aad7d74b6d8dcf7bac9cabda0600053c refs/tags/v0.13.8
+      da320501e74dd0bb8defea2164cfa3e1eff9ed8c refs/tags/v0.14.0
+      8137f6ce16d5ca019cf3b36d74efd21f27a47b21 refs/tags/v0.15.0
+      0bd1ff86b6e0f8b522a43bbf23fc80e3052a60f7 refs/tags/v0.15.1
+      924794a846c4c6163a8dfffe015ad70bb48572cb refs/tags/v0.15.2
+      68fa0e45f3216a76e9133ede63cebccc11b82da3 refs/tags/v0.15.3
+      08849cbaeaf506a443696211cbbcea2ea958b5fc refs/tags/v0.15.4
+      70c1fea668b24f849fd73b1e84bcf921785bcf55 refs/tags/v0.15.5
+      152cc63dbe8d82f53d6fdb98c8e5ee4678b15ba6 refs/tags/v0.15.6
+      f9427530b6402555166f494984c47f422a1fd90b refs/tags/v0.15.7
+      a7ddf038d1689ee3516b5dc406b43270b892e682 refs/tags/v0.15.8
+      b71de1137c2da3d6f95ac8eb5174cff9d7de3c8a refs/tags/v0.16.0
+      45998205600762f0fc445a35e5afdf5fd0410d3b refs/tags/v0.16.1
+      4ff73e0eda5ff439fd786e4a3bea8568abc95fe2 refs/tags/v0.16.10
+      c39d702f08093b9a4694c4a7e74ce072a2247d94 refs/tags/v0.16.2
+      4a626cb73fed89e15edf5f5cd76b68846107110b refs/tags/v0.16.3
+      5752f597f2a29041d0a13dc5d85074ef604a5d97 refs/tags/v0.16.4
+      e7216d297b0cbd0ac2ebb7edff2824ba26d9a00c refs/tags/v0.16.5
+      f57a266970d04fc34ef58cbbd6bbadd2d4caf583 refs/tags/v0.16.6
+      366ded98b7775d0bb15444dad6f64069b31a6757 refs/tags/v0.16.7
+      e905846288b4e2ce6f1732b5af69e7536be30b0e refs/tags/v0.16.8
+      8f03e489d73221a268c50824ac02c286c78130a4 refs/tags/v0.16.9
+      ea4525db4affee7464a95b33eb37b0390e428b6d refs/tags/v0.17.0
+      20bd9c7e078ef2e0305e75ac2861a073b9d5e846 refs/tags/v0.17.1
+      e1cf5161400391ba9cf90f144b7276d724bef4df refs/tags/v0.17.2
+      4c5e668898796eb04b3e62e5aa1537feb7b1b5ba refs/tags/v0.17.3
+      663e70f372c419e3c5489ea6d54b85dd436107e7 refs/tags/v0.17.4
+      341b15d16bc41b5ecc04ef62e4c4529322745ad5 refs/tags/v0.17.5
+      8311af76da375826633485b4be03cac09c696093 refs/tags/v0.17.6
+      181eb1a402c7215882df3e3323e7bd6df2a442a3 refs/tags/v0.17.7
+      03243d8e0fb4c6adb059b2cab29a17792acd1335 refs/tags/v0.17.8
+      692047450a932bcdd5aba8454ab1c8b89359e5dd refs/tags/v0.18.0
+      0b6ee887f306e39cf02aecb9cbe1d8502660d855 refs/tags/v0.18.1
+      b7eec7b56540fb80ee4b6a48aac8c02daad098cd refs/tags/v0.18.2
+      5e897c815f517e18ff887da58382e12289613369 refs/tags/v0.19.0
+      7c17ec3e26a44ed41fda528eb933e30432520e4b refs/tags/v0.19.1
+      9db34d8f519cd11212be07c83e3c2097c28865ab refs/tags/v0.2.0
+      2be7635e0683af2c4fda6347babdf41cc4566d89 refs/tags/v0.2.1
+      3fa5b895e1b818d6cb1ad8c863852f90d94882dd refs/tags/v0.3.0
+      027b39aa8e9472f757a971efe94e45203dc232d5 refs/tags/v0.3.1
+      a113feadff4e83cf46d0f2cf706864c21e62a4d9 refs/tags/v0.3.2
+      96b3a42495f5332a5f1e414ef258edbed9b48681 refs/tags/v0.4.0
+      04d966c115e11479daaea6e5a1bad1f1a9625782 refs/tags/v0.5.0
+      7d380cda11fbc890b5c24ac4608b8e49dc161444 refs/tags/v0.6.0
+      bf4ac9a24e9fb96ca197629ca52f0123d9a6b536 refs/tags/v0.6.1
+      80fbe635edc55e65ad72d879bfde81d98cabab31 refs/tags/v0.6.2
+      31af4ccd9f8cb4d206aa6c2e4d401d9398d6a8ba refs/tags/v0.7.0
+      592dd9ccd55af2892ac80d1fbbd7288bdc48cf1a refs/tags/v0.8.0
+      3d8d8cc90621b29f7653ed970e1b6fcfa4edf4d2 refs/tags/v0.8.1
+      0908bb6f9c63f139a5aab01d4cedaf03ade75dec refs/tags/v0.8.10
+      f85d759123671d3c5abc7e06c64e1e345efd2a0a refs/tags/v0.8.11
+      cceb01703cc1e5b9ffdaba3d76cc369b7aca3517 refs/tags/v0.8.12
+      c5cdb317f74e1f28642b148eef828f46ae288b60 refs/tags/v0.8.13
+      abde7885b0609766ef5247c3610bf3e320798393 refs/tags/v0.8.14
+      e02afa3b4e9ea0053af9d051f65ec0e6c870c4ee refs/tags/v0.8.15
+      8d2a777ab4040965efdce8d049198b05f253bae2 refs/tags/v0.8.2
+      1702bf96016b30535ad3b54e17ca9fa8aa7e35e6 refs/tags/v0.8.3
+      247c72776557c3c02f2b80c0d9d03e178a1b4cbc refs/tags/v0.8.4
+      48783f27984410a8754f279009c6f08e27689338 refs/tags/v0.8.5
+      195e6f0b6b030f385ab567c7e0e6e0eff8f38b78 refs/tags/v0.8.6
+      ca0f4c434e46b3e4bec408a7152d2c4c676b4084 refs/tags/v0.8.7
+      bcf6d4c8701b3185282db2453c753acc0a6eb7be refs/tags/v0.8.8
+      ef6dbd3c761663f9cedc16a50d6aeb21f0d1ac77 refs/tags/v0.8.9
+      3be9b8f3bbf5c33c1379f8ddb2d719dd819b1445 refs/tags/v0.9.0
+      188fc73005f92d3c585527215d30e6e90ffa7c41 refs/tags/v0.9.1
+      fa3193c5ec48982682ed7e3a264adc5c7e7dfc73 refs/tags/v0.9.2
+      6a009f17a9808598aab62b7aeb06c7fe37926683 refs/tags/v0.9.3
+      dbd3eeee8a77d7305bc3eda9fe61ea25377951a5 refs/tags/v0.9.4
+      7540dbfc3e4e73c9f16a99bd662fd0872c55f774 refs/tags/v0.9.5
+      abb7e454cfb0a9aaf0458d4014c2a945736b99d0 refs/tags/v0.9.5.1
+      9041103b66f01adaa00bdddff8e7fa8989911db6 refs/tags/v0.9.6
+      3fa8069bf6965c9149c87670459a65b2fe55eb52 refs/tags/v0.9.7
+      f4c30c4ac6f1b152ddb8e3876ac058662e7455dd refs/tags/v0.9.8
+      [90m$ git rev-parse --git-dir[m
+      .git
+      [90m$ git rev-parse --short origin/stable^{commit}[m
+      d000b39
+      [90m$ git rev-parse --git-dir[m
+      .git
+      [90m$ git rev-parse --short d000b39^{commit}[m
+      d000b39
+      [90m$ git checkout 'd000b39'[m
+      [1mNote: checking out 'd000b39'.[m
+      [1m[m
+      [1mYou are in 'detached HEAD' state. You can look around, make experimental[m
+      [1mchanges and commit them, and you can discard any commits you make in this[m
+      [1mstate without impacting any branches by performing another checkout.[m
+      [1m[m
+      [1mIf you want to create a new branch to retain commits you create, you may[m
+      [1mdo so (now or later) by using -b with the checkout command again. Example:[m
+      [1m[m
+      [1m  git checkout -b <new-branch-name>[m
+      [1m[m
+      [1mHEAD is now at d000b39... Add another TODO.[m
+      after not defined.
+    [90m}[m
+    [90m$ git rev-parse --git-dir[m
+    .git
+    [90m$ git rev-parse --short HEAD[m
+    d000b39
+    [90m$ git rev-parse --git-dir[m
+    .git
+    [90m$ git rev-parse --git-dir[m
+    .git
+    [90m$ git show-ref[m
+    298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/heads/master
+    298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/remotes/origin/HEAD
+    298166f366a9c84b03343f8c6a35b14ae6fb6691 refs/remotes/origin/master
+    d000b395d376f959b5afcf6b0e3857832ae339d5 refs/remotes/origin/stable
+    8b84d077041bba6548c4c3697dac8228e9c7588a refs/tags/v0.1.0
+    bd2b53c71c95ab2d8af104d7aecf893874a48436 refs/tags/v0.1.1
+    40054c2e7b9c382ff01ea26b70725a3271ac3eda refs/tags/v0.10.0
+    ec5119d0892134e0f7a060026dc76bdb33d50757 refs/tags/v0.10.1
+    18969b4d7b22e20a2618e37eca0372ba2081a47d refs/tags/v0.10.10
+    5b84292d6893b4f4ba31494a0c4117135e9b084f refs/tags/v0.10.11
+    76c7433e9077daba9cfa8f98a388b36fd937348f refs/tags/v0.10.2
+    d5b6a0e191f2000fa946139ff1333985beb413d9 refs/tags/v0.10.3
+    77999ae6e18eda36703bbf3fdbdfb8450aaf3135 refs/tags/v0.10.4
+    28721e43e4540eadc6fcaa61ee498da1be942893 refs/tags/v0.10.5
+    0e6700f1463d5da43b95cd0c5b2670ba7b9fed88 refs/tags/v0.10.6
+    30803beeaf2fd87234088f0375be63520dd40685 refs/tags/v0.10.7
+    f90b8df679bfa1362803a0bf25637440d75917d1 refs/tags/v0.10.8
+    2eadc01ea01fae3a4f92797a4194a273b395807e refs/tags/v0.10.9
+    08d234b743388dcb4a38a502a033ed7b7a7e3614 refs/tags/v0.11.0
+    549a1885573ebfa7dff8859e88d91e451fb4cd31 refs/tags/v0.11.1
+    f326bd741f7d4c865d2a34b4bb4456a058ae62c5 refs/tags/v0.11.2
+    226fcd03d8ae80740281d170cd4833bb9afcbc26 refs/tags/v0.11.3
+    bf81c1e062b07bce7e17587938d676ed4f5f38d5 refs/tags/v0.11.4
+    9ee50ae785f6e6be84d7b8bc6e77a33c24e33e80 refs/tags/v0.11.5
+    92c962cd2e25f059b5ebe7d6168b9b74ffd0ec98 refs/tags/v0.12.0
+    05221d62d41e50cc52857edd1f626c16d601753a refs/tags/v0.12.1
+    1d833db2ef0bb41a612a3489050ff6bc729ac03f refs/tags/v0.12.2
+    2f4f9e7e88b7bb32062bcb4dd715ceb73928416c refs/tags/v0.12.3
+    24b9e9abe2642dda871b2c618056bc78bff01943 refs/tags/v0.12.4
+    630cfa10b1f4d505b9d7b6ce0470813552f20188 refs/tags/v0.12.5
+    c2154b1304c34ed4c9a34170263a406a92154ddd refs/tags/v0.12.6
+    3f312a5695f6bff223280fd53733122ba4b48a9a refs/tags/v0.12.7
+    ef2c2261c28b2e55dee4acaaa64249451e8f3063 refs/tags/v0.12.8
+    a62244dc127b84b78a795e914d8f20c00a3ebdf6 refs/tags/v0.12.9
+    42e2c0ec334a1fa782a1060d276a9f9edb740056 refs/tags/v0.13.0
+    1faca795929e108d338f3d5fe09a2c0e7c536070 refs/tags/v0.13.1
+    39b65d5e4b10f6a3a502e1e21100feaa238a3da4 refs/tags/v0.13.2
+    a2f554c2d9e1cde2d9283f5dfe865a7c779f496c refs/tags/v0.13.3
+    f8e20c23af95f863ded4ebdf4c77476180227754 refs/tags/v0.13.4
+    5eb2137488a68afefd5b1e3284e801fc6bc503f1 refs/tags/v0.13.5
+    b122764c0b930a5a712658cb40f3ad225f2af7b8 refs/tags/v0.13.6
+    73fe44a0e59b28090cc65f7abf96f684af784cd2 refs/tags/v0.13.7
+    dd3e0af3aad7d74b6d8dcf7bac9cabda0600053c refs/tags/v0.13.8
+    da320501e74dd0bb8defea2164cfa3e1eff9ed8c refs/tags/v0.14.0
+    8137f6ce16d5ca019cf3b36d74efd21f27a47b21 refs/tags/v0.15.0
+    0bd1ff86b6e0f8b522a43bbf23fc80e3052a60f7 refs/tags/v0.15.1
+    924794a846c4c6163a8dfffe015ad70bb48572cb refs/tags/v0.15.2
+    68fa0e45f3216a76e9133ede63cebccc11b82da3 refs/tags/v0.15.3
+    08849cbaeaf506a443696211cbbcea2ea958b5fc refs/tags/v0.15.4
+    70c1fea668b24f849fd73b1e84bcf921785bcf55 refs/tags/v0.15.5
+    152cc63dbe8d82f53d6fdb98c8e5ee4678b15ba6 refs/tags/v0.15.6
+    f9427530b6402555166f494984c47f422a1fd90b refs/tags/v0.15.7
+    a7ddf038d1689ee3516b5dc406b43270b892e682 refs/tags/v0.15.8
+    b71de1137c2da3d6f95ac8eb5174cff9d7de3c8a refs/tags/v0.16.0
+    45998205600762f0fc445a35e5afdf5fd0410d3b refs/tags/v0.16.1
+    4ff73e0eda5ff439fd786e4a3bea8568abc95fe2 refs/tags/v0.16.10
+    c39d702f08093b9a4694c4a7e74ce072a2247d94 refs/tags/v0.16.2
+    4a626cb73fed89e15edf5f5cd76b68846107110b refs/tags/v0.16.3
+    5752f597f2a29041d0a13dc5d85074ef604a5d97 refs/tags/v0.16.4
+    e7216d297b0cbd0ac2ebb7edff2824ba26d9a00c refs/tags/v0.16.5
+    f57a266970d04fc34ef58cbbd6bbadd2d4caf583 refs/tags/v0.16.6
+    366ded98b7775d0bb15444dad6f64069b31a6757 refs/tags/v0.16.7
+    e905846288b4e2ce6f1732b5af69e7536be30b0e refs/tags/v0.16.8
+    8f03e489d73221a268c50824ac02c286c78130a4 refs/tags/v0.16.9
+    ea4525db4affee7464a95b33eb37b0390e428b6d refs/tags/v0.17.0
+    20bd9c7e078ef2e0305e75ac2861a073b9d5e846 refs/tags/v0.17.1
+    e1cf5161400391ba9cf90f144b7276d724bef4df refs/tags/v0.17.2
+    4c5e668898796eb04b3e62e5aa1537feb7b1b5ba refs/tags/v0.17.3
+    663e70f372c419e3c5489ea6d54b85dd436107e7 refs/tags/v0.17.4
+    341b15d16bc41b5ecc04ef62e4c4529322745ad5 refs/tags/v0.17.5
+    8311af76da375826633485b4be03cac09c696093 refs/tags/v0.17.6
+    181eb1a402c7215882df3e3323e7bd6df2a442a3 refs/tags/v0.17.7
+    03243d8e0fb4c6adb059b2cab29a17792acd1335 refs/tags/v0.17.8
+    692047450a932bcdd5aba8454ab1c8b89359e5dd refs/tags/v0.18.0
+    0b6ee887f306e39cf02aecb9cbe1d8502660d855 refs/tags/v0.18.1
+    b7eec7b56540fb80ee4b6a48aac8c02daad098cd refs/tags/v0.18.2
+    5e897c815f517e18ff887da58382e12289613369 refs/tags/v0.19.0
+    7c17ec3e26a44ed41fda528eb933e30432520e4b refs/tags/v0.19.1
+    9db34d8f519cd11212be07c83e3c2097c28865ab refs/tags/v0.2.0
+    2be7635e0683af2c4fda6347babdf41cc4566d89 refs/tags/v0.2.1
+    3fa5b895e1b818d6cb1ad8c863852f90d94882dd refs/tags/v0.3.0
+    027b39aa8e9472f757a971efe94e45203dc232d5 refs/tags/v0.3.1
+    a113feadff4e83cf46d0f2cf706864c21e62a4d9 refs/tags/v0.3.2
+    96b3a42495f5332a5f1e414ef258edbed9b48681 refs/tags/v0.4.0
+    04d966c115e11479daaea6e5a1bad1f1a9625782 refs/tags/v0.5.0
+    7d380cda11fbc890b5c24ac4608b8e49dc161444 refs/tags/v0.6.0
+    bf4ac9a24e9fb96ca197629ca52f0123d9a6b536 refs/tags/v0.6.1
+    80fbe635edc55e65ad72d879bfde81d98cabab31 refs/tags/v0.6.2
+    31af4ccd9f8cb4d206aa6c2e4d401d9398d6a8ba refs/tags/v0.7.0
+    592dd9ccd55af2892ac80d1fbbd7288bdc48cf1a refs/tags/v0.8.0
+    3d8d8cc90621b29f7653ed970e1b6fcfa4edf4d2 refs/tags/v0.8.1
+    0908bb6f9c63f139a5aab01d4cedaf03ade75dec refs/tags/v0.8.10
+    f85d759123671d3c5abc7e06c64e1e345efd2a0a refs/tags/v0.8.11
+    cceb01703cc1e5b9ffdaba3d76cc369b7aca3517 refs/tags/v0.8.12
+    c5cdb317f74e1f28642b148eef828f46ae288b60 refs/tags/v0.8.13
+    abde7885b0609766ef5247c3610bf3e320798393 refs/tags/v0.8.14
+    e02afa3b4e9ea0053af9d051f65ec0e6c870c4ee refs/tags/v0.8.15
+    8d2a777ab4040965efdce8d049198b05f253bae2 refs/tags/v0.8.2
+    1702bf96016b30535ad3b54e17ca9fa8aa7e35e6 refs/tags/v0.8.3
+    247c72776557c3c02f2b80c0d9d03e178a1b4cbc refs/tags/v0.8.4
+    48783f27984410a8754f279009c6f08e27689338 refs/tags/v0.8.5
+    195e6f0b6b030f385ab567c7e0e6e0eff8f38b78 refs/tags/v0.8.6
+    ca0f4c434e46b3e4bec408a7152d2c4c676b4084 refs/tags/v0.8.7
+    bcf6d4c8701b3185282db2453c753acc0a6eb7be refs/tags/v0.8.8
+    ef6dbd3c761663f9cedc16a50d6aeb21f0d1ac77 refs/tags/v0.8.9
+    3be9b8f3bbf5c33c1379f8ddb2d719dd819b1445 refs/tags/v0.9.0
+    188fc73005f92d3c585527215d30e6e90ffa7c41 refs/tags/v0.9.1
+    fa3193c5ec48982682ed7e3a264adc5c7e7dfc73 refs/tags/v0.9.2
+    6a009f17a9808598aab62b7aeb06c7fe37926683 refs/tags/v0.9.3
+    dbd3eeee8a77d7305bc3eda9fe61ea25377951a5 refs/tags/v0.9.4
+    7540dbfc3e4e73c9f16a99bd662fd0872c55f774 refs/tags/v0.9.5
+    abb7e454cfb0a9aaf0458d4014c2a945736b99d0 refs/tags/v0.9.5.1
+    9041103b66f01adaa00bdddff8e7fa8989911db6 refs/tags/v0.9.6
+    3fa8069bf6965c9149c87670459a65b2fe55eb52 refs/tags/v0.9.7
+    f4c30c4ac6f1b152ddb8e3876ac058662e7455dd refs/tags/v0.9.8
+    [90m$ git rev-parse --git-dir[m
+    .git
+    [90m$ git rev-parse --short origin/stable^{commit}[m
+    d000b39
+    [90m$ git rev-parse --git-dir[m
+    .git
+    [90m$ git rev-parse --short HEAD[m
+    d000b39
+    [90m✓[m babushka is up to date at d000b39.
+  [90m}[m [32m✓ up to date.babushka[m
+  [90m$ git rev-parse --git-dir[m
+  [1mfatal: Not a git repository (or any of the parent directories): .git[m
+  [90m$ git rev-parse --git-dir[m
+  [1mfatal: Not a git repository (or any of the parent directories): .git[m
+  [90m$ git rev-parse --git-dir[m
+  [1mfatal: Not a git repository (or any of the parent directories): .git[m
+  [90min path.babushka {[m
+    [90m$ git rev-parse --git-dir[m
+    [1mfatal: Not a git repository (or any of the parent directories): .git[m
+    [90m$ git rev-parse --git-dir[m
+    [1mfatal: Not a git repository (or any of the parent directories): .git[m
+    [90m$ git rev-parse --git-dir[m
+    [1mfatal: Not a git repository (or any of the parent directories): .git[m
+    (defining in path.babushka against babushka from /Users/kjayanta/.babushka/bootstrap/deps/babushka.rb)
+    [90m$ git rev-parse --git-dir[m
+    [1mfatal: Not a git repository (or any of the parent directories): .git[m
+    [90m$ git rev-parse --git-dir[m
+    [1mfatal: Not a git repository (or any of the parent directories): .git[m
+    [32m✓ installed.babushka (cached)[m
+    [90m$ git rev-parse --git-dir[m
+    [1mfatal: Not a git repository (or any of the parent directories): .git[m
+    [90mmeet {[m
+      before not defined.
+      Linking babushka into /usr/local/bin...      [90m$ ln -sf "/usr/local/babushka/bin/babushka.rb" "/usr/local/bin/babushka"[m
+ done.
+      after not defined.
+    [90m}[m
+  [90m}[m [32m✓ in path.babushka[m
+  met? not defined.
+[90m}[m [32m✓ babushka[m
