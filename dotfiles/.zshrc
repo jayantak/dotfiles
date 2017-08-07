@@ -43,5 +43,6 @@ hash -d notes="/Users/kjayanta/Google Drive File Stream/My Drive/Notes"
 alias notes="sublime ~notes"
 
 alias subl="sublime"
+alias git="hub"
 
 alias soc="sublime ~notes/soc.txt"
