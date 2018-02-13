@@ -14,7 +14,7 @@ eval $(thefuck --alias)
 if [ -f $GOPATH/src/github.com/zquestz/s/autocomplete/s-completion.bash ]; then
     . $GOPATH/src/github.com/zquestz/s/autocomplete/s-completion.bash
 fi
-alias gpr="git pull -r --autostash"
+alias gpr="git pull -r --autostash --tags"
 
 export PATH="$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 export PATH=$PATH:/Users/${USER}/Downloads/darwin-amd64
@@ -24,9 +24,15 @@ export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/latest/bin
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 export PATH=$PATH:~/.ssh
 export PATH=$PATH:/usr/local/go/bin
+export PATH=$PATH:$GOPATH/bin
+
+export SBT_OPTS=-Xss1024M
 
 export SSH_KEY_PATH="~/.ssh/id_rsa"
 export SSH_KEY_PATH_PUB="~/.ssh/id_rsa.pub"
+
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
 
 export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
 export ANDROID_HOME=/usr/local/opt/android-sdk
@@ -48,3 +54,4 @@ alias git="hub"
 alias soc="sublime ~notes/soc.txt"
 
 alias make="make -j5"
+export PATH="/usr/local/opt/postgresql@9.6/bin:$PATH"
