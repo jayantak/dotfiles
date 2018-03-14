@@ -2,7 +2,7 @@
 export ZSH=/Users/${USER}/.oh-my-zsh
 
 #ZSH_THEME="powerlevel9k/powerlevel9k"
-ZSH_THEME="agnoster"
+ZSH_THEME="gallifrey"
 DEFAULT_USER="${USER}"
 
 HIST_STAMPS="dd.mm.yyyy"
